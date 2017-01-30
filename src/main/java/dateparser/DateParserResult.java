@@ -5,54 +5,12 @@ import java.time.LocalDateTime;
 /**
  * Created by nikolayivanov on 1/15/17.
  */
-public class DateParserResult {
-    private int startIndex;
-    private int startTokenIndex;
-    private int stopIndex;
-    private int stopTokenIndex;
+public class DateParserResult extends ParserResult {
     private LocalDateTime dateTime;
 
-    public DateParserResult() {
-    }
-
-    public DateParserResult(int startIndex, int startTokenIndex, int stopIndex, int stopTokenIndex, LocalDateTime dateTime) {
-        this.startIndex = startIndex;
-        this.startTokenIndex = startTokenIndex;
-        this.stopIndex = stopIndex;
-        this.stopTokenIndex = stopTokenIndex;
+    public DateParserResult( LocalDateTime dateTime, IntegerRange indexRange, IntegerRange tokenRange) {
+        super(indexRange, tokenRange);
         this.dateTime = dateTime;
-    }
-
-    public int getStartTokenIndex() {
-        return startTokenIndex;
-    }
-
-    public void setStartTokenIndex(int startTokenIndex) {
-        this.startTokenIndex = startTokenIndex;
-    }
-
-    public int getStopTokenIndex() {
-        return stopTokenIndex;
-    }
-
-    public void setStopTokenIndex(int stopTokenIndex) {
-        this.stopTokenIndex = stopTokenIndex;
-    }
-
-    public int getStartIndex() {
-        return startIndex;
-    }
-
-    public void setStartIndex(int startIndex) {
-        this.startIndex = startIndex;
-    }
-
-    public int getStopIndex() {
-        return stopIndex;
-    }
-
-    public void setStopIndex(int stopIndex) {
-        this.stopIndex = stopIndex;
     }
 
     public LocalDateTime getDateTime() {
@@ -64,12 +22,14 @@ public class DateParserResult {
     }
 
     @Override
-    public String toString() {
-        return "DateParserResult{" +
-                "startIndex=" + startIndex +
-                ", stopIndex=" + stopIndex +
-                ", dateTime=" + dateTime +
-                '}';
+    public String getLabel() {
+        return "en:date";
     }
 
+    @Override
+    public String toString() {
+        return "DateParserResult{" +
+                "dateTime=" + dateTime +
+                '}';
+    }
 }

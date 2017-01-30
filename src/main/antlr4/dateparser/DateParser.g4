@@ -20,6 +20,7 @@ relative_date
 
 month_day_year
   : (format_month_day | spelled_month_day | spelled_month) (WHITE_SPACE? (COMMA | DASH) WHITE_SPACE? | WHITE_SPACE ) parse_year
+  | parse_year (WHITE_SPACE? (COMMA | DASH) WHITE_SPACE? | WHITE_SPACE ) (format_month_day | spelled_month_day | spelled_month)
   ;
 
 format_date

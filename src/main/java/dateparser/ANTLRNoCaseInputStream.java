@@ -3,12 +3,10 @@ package dateparser;
 import org.antlr.v4.runtime.ANTLRInputStream;
 import org.antlr.v4.runtime.CharStream;
 
-import java.io.IOException;
 
+class ANTLRNoCaseInputStream extends ANTLRInputStream {
 
-public class ANTLRNoCaseInputStream extends ANTLRInputStream {
-
-    public ANTLRNoCaseInputStream(String input) throws IOException {
+    ANTLRNoCaseInputStream(String input) {
         super(input);
     }
 

@@ -2,13 +2,7 @@ package dateparser;
 
 import org.antlr.v4.runtime.*;
 import org.antlr.v4.runtime.tree.ParseTree;
-import org.json.JSONArray;
-import org.json.JSONObject;
 
-import java.io.IOException;
-import java.nio.charset.Charset;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -16,7 +10,7 @@ import java.util.List;
 
 public class ParseDate {
 
-    private static List<DateParserResult> parse(String input) throws IOException {
+    public static List<DateParserResult> parse(String input) {
         //long start = System.currentTimeMillis();
         CharStream stream = new ANTLRNoCaseInputStream(input);
         DateLexer lexer = new DateLexer(stream);
@@ -26,8 +20,7 @@ public class ParseDate {
         //System.out.println(tokens);
         //System.out.println("Lexer time: " + String.valueOf(System.currentTimeMillis() - start));
 
-        List<DateParserResult> parserResults = parseRecursive(tokens, false);
-        return parserResults;
+        return parseRecursive(tokens, false);
     }
 
     private static List<DateParserResult> parseRecursive(List<Token> tokens, boolean stopOnFirstResult) {
@@ -64,8 +57,8 @@ public class ParseDate {
                         }
                         DateParserResult bdr = backwardsDeductionResults.get(0);
                         parserResults.add(bdr);
-                        if (bdr.getStopTokenIndex() + 1 < tokens.size()) {
-                            wordTokenIndex = getIndexOfTheNextWordTokenIndex(tokens, bdr.getStopTokenIndex() + 1);
+                        if (bdr.getTokenRange().getStop() + 1 < tokens.size()) {
+                            wordTokenIndex = getIndexOfTheNextWordTokenIndex(tokens, bdr.getTokenRange().getStop() + 1);
                             nextToken = dateParserTokenSource.getToken(wordTokenIndex);
                             continue;
                         }
@@ -79,13 +72,14 @@ public class ParseDate {
                 if (tokenAfterStop.getType() == DateLexer.WHITE_SPACE
                         || tokenAfterStop.getType() == DateLexer.COMMA
                         || tokenAfterStop.getType() == DateLexer.DOT
+                        || tokenAfterStop.getType() == DateLexer.SINGLE_QUOTE
+                        || tokenAfterStop.getType() == DateLexer.LEFT_SINGLE_QUOTE
+                        || tokenAfterStop.getType() == DateLexer.RIGHT_SINGLE_QUOTE
                         || tokenAfterStop.getType() == Token.EOF) {
                     DateParserResult result = new DateParserResult(
-                            parseContext.getStart().getStartIndex(),
-                            parseContext.getStart().getTokenIndex(),
-                            parseContext.getStop().getStopIndex(),
-                            parseContext.getStop().getTokenIndex(),
-                            extractor.getLocalDateTime());
+                            extractor.getLocalDateTime(),
+                            new IntegerRange(parseContext.getStart().getStartIndex(), parseContext.getStop().getStopIndex()),
+                            new IntegerRange(parseContext.getStart().getTokenIndex(), parseContext.getStop().getTokenIndex()));
                     parserResults.add(result);
                     if(stopOnFirstResult) {
                         return parserResults;
@@ -127,41 +121,21 @@ public class ParseDate {
         return tokens.size() - 1;
     }
 
-    static String readFile(String path, Charset encoding)
-            throws IOException
-    {
-        byte[] encoded = Files.readAllBytes(Paths.get(path));
-        return new String(encoded, encoding);
-    }
-
-    private static void findDates(String pathToDataSetFile) throws IOException {
-        String json = readFile(pathToDataSetFile, Charset.defaultCharset());
-        JSONArray arr = new JSONArray(json);
-        for (int i = 0; i < arr.length(); i++) {
-            JSONObject jsonObj = (JSONObject)arr.get(i);
-            String text = jsonObj.getString("text");
-            System.out.println(text);
-            System.out.println(parse(text));
-        }
-    }
-
     public static void main(String[] args) {
         String input1 = "I'm flying 22nd  Feb 2022 and I want a ticket next Friday so come on Mar, garet";
         String input = "tuesday next week";
         //String input = "mar gsad";
         String input2 = "7th of jan, 22gasd";
+        String input3 = "‘from paris to rome tomorrow’";
         //String input = "03/12 next year"; // needs to be locale specific
         //String input = "in 9th days from now";
         //String input = "last mon.";
         //String input = "yesterday";
-        try {
-            System.out.println(parse(input));
-            //System.out.println(parse(input2));
-            long start = System.currentTimeMillis();
-            //findDates("src/main/resources/test.json");
-            System.out.println(System.currentTimeMillis() - start);
-        } catch (IOException e) {
-            System.out.println(e.getMessage());
-        }
+
+        System.out.println(parse(input3));
+        //System.out.println(parse(input2));
+        long start = System.currentTimeMillis();
+        //findDates("src/main/resources/test.json");
+        System.out.println(System.currentTimeMillis() - start);
     }
 }

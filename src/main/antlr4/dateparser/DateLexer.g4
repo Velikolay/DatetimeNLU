@@ -239,6 +239,8 @@ SLASH : '/';
 DOT   : '.';
 PLUS  : '+';
 SINGLE_QUOTE : '\'';
+LEFT_SINGLE_QUOTE : '’';
+RIGHT_SINGLE_QUOTE : '‘';
 
 CURRENT   : 'current';
 FOR       : 'for';

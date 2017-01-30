@@ -1,0 +1,3808 @@
+CITYNAME,CITYCODE
+london,lon
+manchester,man
+london,lon
+barcelona,bcn
+amsterdam,ams
+bangkok,bkk
+dublin,dub
+madrid,mad
+moscow,mow
+rome,rom
+hong kong,hkg
+hk,hkg
+london,lon
+st petersburg,led
+paris,par
+singapore,sin
+istanbul,ist
+new york,nyc
+new york city,nyc
+ny,nyc
+seoul,sel
+sydney,syd
+athens,ath
+taipei,tpe
+malaga,agp
+birmingham,bhx
+moscow,mow
+palma,pmi
+milan,mil
+tokyo,tyo
+los angeles,lax
+lisbon,lis
+libon,lis
+prague,prg
+edinburgh,edi
+munich,muc
+frankfurt,fra
+melbourne,mel
+dubai,dxb
+moscow,mow
+alicante,alc
+osaka,osa
+bali (denpasar),dps
+bangkok,bkk
+copenhagen,cph
+zurich,zrh
+kuala lumpur,kul
+istanbul,ist
+london,lon
+tel aviv,tlv
+simferopol,sip
+dusseldorf,dus
+budapest,bud
+berlin,ber
+manila,mnl
+antalya,ayt
+tenerife,tci
+phuket,hkt
+orlando,orl
+glasgow,gla
+brussels,bru
+warsaw,waw
+perth,per
+vienna,vie
+stockholm,sto
+sochi,aer
+delhi,del
+geneva,gva
+toronto,yto
+venice,vce
+brisbane,bne
+faro,fao
+paris,par
+auckland,akl
+sao paulo,sao
+helsinki,hel
+milan,mil
+ibiza,ibz
+miami,mia
+san francisco,sfo
+larnaca,lca
+thessaloniki,skg
+berlin,ber
+las vegas,las
+jakarta,jkt
+hamburg,ham
+bucharest,buh
+nottingham,nqt
+ho chi minh city,sgn
+tokyo,tyo
+mumbai,bom
+bonaire,bon
+ekaterinburg,svx
+naples,nap
+porto,opo
+bristol,brs
+bologna,blq
+newcastle,ncl
+izmir,izm
+rome,rom
+chicago,chi
+nice,nce
+catania,cta
+lanzarote,ace
+stuttgart,str
+leeds,lba
+novosibirsk,ovb
+liverpool,lpl
+cancun,cun
+gran canaria,lpa
+dalaman,dlm
+oslo,osl
+cologne,cgn
+krasnodar,krr
+new york,nyc
+colombo,cmb
+beijing,bjs
+mexico city,mex
+shanghai,sha
+valencia,vlc
+cairo,cai
+vancouver,yvr
+luqa,mla
+milan,mil
+boston,bos
+kiev,iev
+crete,her
+chiang mai,cnx
+rio de janeiro,rio
+bogota,bog
+hanoi,han
+krakow,krk
+johannesburg,jnb
+seville,svq
+havana,hav
+paris,par
+miami,mia
+pisa,psa
+bilbao,bio
+honolulu,hnl
+okinawa,oka
+ankara,ank
+marrakech menara,rak
+palermo,pmo
+lima,lim
+eindhoven,ein
+montreal,ymq
+riga,rix
+warsaw,waw
+buenos aires,bue
+brussels,bru
+london,lon
+santiago,scl
+turin,trn
+fukuoka,fuk
+fuerteventura,fue
+busan,pus
+sofia,sof
+vladivostok,vvo
+paphos,pfo
+jeddah,jed
+reykjavik,rek
+santorini (thira),jtr
+cape town,cpt
+new york,nyc
+basel,eap
+marseille,mrs
+aberdeen,abz
+lyon,lys
+mineralnye vody,mrv
+vilnius,vno
+atlanta,atl
+riyadh,ruh
+rostov-on-don,rov
+belfast,bfs
+bari,bri
+florence,flr
+ufa,ufa
+chennai,maa
+koh samui / samui island,usm
+gothenburg,got
+sharm el sheikh,ssh
+rhodes,rho
+krabi,kbv
+anapa,aaq
+sapporo,spk
+gdansk,gdn
+belgrade,beg
+hannover,haj
+washington,was
+bodrum,bjv
+zagreb,zag
+dallas,dfw
+beirut,bey
+belfast,bfs
+adelaide,adl
+split,spu
+doha,doh
+kaliningrad,kgd
+kochi,cok
+tbilisi,tbs
+bangalore,blr
+goa,goi
+corfu,cfu
+seattle,sea
+abu dhabi,auh
+menorca,mah
+tallinn,tll
+male,mle
+hyderabad,hyd
+denver,den
+kaohsiung,khh
+samara,kuf
+christchurch,chc
+nagoya,ngo
+kazan,kzn
+casablanca,cas
+seoul,sel
+dubrovnik,dbv
+houston,hou
+guangzhou,can
+venice,vce
+islamabad,isb
+yerevan,evn
+kuwait,kwi
+krasnoyarsk,kja
+calgary,yyc
+crete,her
+cork,ork
+toulouse,tls
+cebu,ceb
+kathmandu,ktm
+chisinau,kiv
+san jose,sjo
+cairns,cns
+tivat,tiv
+adana,ada
+gold coast,ool
+wroclaw,wro
+bourgas,boj
+chelyabinsk,cek
+cagliari,cag
+khabarovsk novy,khv
+minsk,msq
+irkutsk,ikt
+bordeaux,bod
+madeira,fnc
+verona,vrn
+amman,amm
+tehran,thr
+caracas,ccs
+san juan,sju
+lahore,lhe
+tampa,tpa
+frankfurt,fra
+tenerife,tci
+baku,bak
+siem reap,rep
+tunis carthage,tun
+lagos,los
+tirana,tia
+dusseldorf,dus
+salvador,ssa
+san diego,san
+santiago de compostela,scq
+ercan,ecn
+omsk,oms
+nairobi,nbo
+jeju,cju
+phnom penh,pnh
+cardiff,cwl
+minneapolis,msp
+philadelphia,phl
+perm,pee
+mykonos,jmk
+nuremberg,nue
+glasgow,gla
+dammam,dmm
+murcia,mjv
+lamezia terme,suf
+phoenix,phx
+detroit,dtt
+shannon,snn
+penang,pen
+brasilia,bsb
+bergen,bgo
+tyumen,tjm
+da nang,dad
+hurghada,hrg
+fortaleza,for
+katowice,ktw
+kayseri,asr
+billund,bll
+washington,was
+punta cana,puj
+bahrain,bah
+ahmedabad,amd
+recife,rec
+bishkek,fru
+bremen,bre
+mauritius,mru
+guadalajara,gdl
+porto alegre,poa
+brindisi,bds
+trabzon,tzx
+alghero sardinia,aho
+surgut,sgc
+genoa,goa
+london,lon
+olbia,olb
+quito,uio
+yangon,rgn
+tashkent,tas
+murmansk,mmk
+new orleans,msy
+muscat,mct
+kolkata,ccu
+stockholm,sto
+luxembourg,lux
+wellington,wlg
+gerona,gro
+nantes,nte
+dhaka,dac
+portland,pdx
+santo domingo,sdq
+southampton,sou
+rotterdam,rtm
+karachi,khi
+salzburg,szg
+edmonton,yea
+belo horizonte,bhz
+nizhniy novgorod,goj
+algiers,alg
+washington,was
+macau,mfm
+panama city,pty
+gaziantep,gzt
+oslo,osl
+ljubljana,lju
+almaty,ala
+darwin,drw
+jersey,jer
+kos,kgs
+medellin,mde
+yakutsk,yks
+surat thani,urt
+rio de janeiro,rio
+accra,acc
+taipei,tpe
+nadi,nan
+langkawi,lgk
+odessa,ods
+zante (zakynthos),zth
+salt lake city,slc
+hat yai (songkhla),hdy
+barrigada / tamuning,gum
+curitiba,cwb
+poznan,poz
+kota kinabalu,bki
+sao paulo,sao
+yuzhno-sakhalinsk,uus
+tangier,tng
+stavanger,svg
+dortmund,dtm
+charlotte,clt
+montego bay,mbj
+skopje,skp
+surabaya,sub
+podgorica,tgd
+varna,var
+volgograd,vog
+austin,aus
+makhachkala,mcx
+montevideo,mvd
+yogyakarta,jog
+mahe island,sez
+lviv,lwo
+chengdu,ctu
+cuzco,cuz
+tomsk,tof
+kiev,iev
+kalibo,klo
+shanghai,sha
+queenstown,zqn
+guatemala city,gua
+novy urengoy,nux
+cartagena,ctg
+bratislava,bts
+cali,clo
+trapani birgi,tps
+dar es salaam,dar
+sarajevo,sjj
+thiruvananthapuram,trv
+florianopolis,fln
+reus,reu
+durham,rdu
+bournemouth,boh
+nizhnevartovsk,njc
+agadir,aga
+mataram,ami
+ottawa,yow
+gelendzik,gdz
+granada,grx
+samsun,ssx
+udon thani,uth
+iguassu falls,igu
+leipzig,lej
+guayaquil,gye
+diyarbakir,diy
+vientiane,vte
+addis ababa,add
+buenos aires,bue
+amritsar,atq
+inverness,inv
+santander,sdr
+hobart,hba
+exeter,ext
+taichung,rmq
+erbil,ebl
+pristina,prn
+bridgetown,bgi
+ponta delgada,pdl
+osh,oss
+astana,tse
+asturias,ovd
+petropavlovsk-kamchats,pkc
+osaka,osa
+nashville,bna
+zanzibar,znz
+buffalo,buf
+fort myers,fmy
+harare,hre
+natal,nat
+arkhangelsk,arh
+la coruna,lcg
+alexandria,aly
+durban,dur
+campinas,cpq
+astrakhan,asf
+dakar,dkr
+entebbe,ebb
+fes,fez
+zadar,zad
+managua,mga
+goiania,gyn
+barnaul,bax
+chiang rai,cei
+luang prabang,lpq
+cluj-napoca,clj
+knock,noc
+manaus,mao
+shenzhen,szx
+nador,ndr
+trieste,trs
+innsbruck,inn
+winnipeg,ywg
+konya,kya
+jerez,xry
+halifax,yhz
+yichun,yic
+enfidha,nbe
+la paz,lpb
+san salvador,sal
+xiamen,xmn
+cleveland,cle
+trondheim,trd
+monterrey,mty
+kahului,ogg
+nha trang,nha
+oranjestad,aua
+puerto princesa,pps
+xi an,sia
+oakland,oak
+khartoum,krt
+dresden,drs
+tromso,tos
+oslo,osl
+gazipasa,gzp
+vigo,vgo
+st louis,stl
+kingston,kin
+orlando,orl
+stavropol,stw
+baden-baden,fkb
+qingdao,tao
+kansas city,mkc
+argostoli,efl
+canberra,cbr
+sacramento,sac
+gibraltar,gib
+mombasa,mba
+vitoria,vix
+nassau,nas
+dushanbe,dyu
+strasbourg,sxb
+blagoveschensk,bqs
+caticlan,mph
+san antonio,sat
+madinah,med
+almeria,lei
+indianapolis,ind
+medan,mes
+doncaster,dsa
+pula,puy
+voronezh,voz
+kunming,kmg
+kagoshima,koj
+aalborg,aal
+vladikavkaz,ogz
+ancona,aoi
+memmingen,fmm
+puerto vallarta,pvr
+pittsburgh,pit
+maceio,mcz
+mytilene,mjt
+antakya,hty
+montpellier,mpl
+chicago,chi
+pointe-a-pitre,ptp
+orenburg,ren
+tijuana,tij
+jacksonville,jax
+syktyvkar,scw
+varadero,vra
+rzeszow,rze
+rabat,rba
+kabul,kbl
+biarritz,biq
+hangzhou,hgh
+sanya,syx
+san jose,sjc
+kozhikode,ccj
+pune,pnq
+novokuzinetsk,noz
+angeles,ncp
+fort de france,fdf
+quebec,yqb
+kuala lumpur,kul
+fuzhou,foc
+belem,bel
+saint-denis,run
+kemerovo,kej
+port of spain,pos
+erzurum,erz
+harbin,hrb
+wuhan,wuh
+dalian,dlc
+newquay,nqy
+kaunas,kun
+skiathos,jsi
+iasi,ias
+ulan-ude,uud
+reggio calabria,reg
+bandung,bdo
+phu quoc,pqc
+shenyang,she
+castletown,iom
+cincinnati,cvg
+chita,hta
+ishigaki,isg
+ubon ratchathani,ubp
+west palm beach,pbi
+luanda,lad
+sharjah,shj
+dnepropetrovsk,dnk
+sal,sid
+kuching,kch
+naberevnye chelny,nbc
+khon kaen,kkc
+bastia - corsica,bia
+santa cruz,srz
+columbus,cmh
+pescara,psr
+batumi,bus
+van,van
+cuiaba,cgb
+memphis,mem
+elazig,ezs
+khudzhand,lbd
+chongqing,ckg
+hiroshima,hij
+timisoara,tsr
+santa ana,sna
+jaipur,jai
+dubai,dxb
+joao pessoa,jpa
+san jose cabo,sjd
+rovaniemi,rvn
+ulaanbaatar,uln
+belgorod,ego
+malmo,mma
+hartford,hfd
+djerba,dje
+asuncion,asu
+cordoba,cor
+kharkov,hrk
+nanking / nanjing,nkg
+townsville,tsv
+porto seguro,bps
+port elizabeth,plz
+melbourne,mel
+sendai,sdj
+nevsehir,nav
+szczecin,szz
+graz,grz
+munster,fmo
+johor bahru,jhb
+baghdad,bgw
+norilsk,nsk
+sao luiz,slz
+davao,dvo
+guernsey,gci
+anchorage,anc
+windhoek,wdh
+lampedusa,lmp
+malatya,mlx
+denizli cardak,dnz
+port au prince,pap
+san pedro sula,sap
+antananarivo,tnr
+houston,hou
+grenoble,gnb
+barranquilla,baq
+bergerac,egc
+liberia,lir
+kilimanjaro,jro
+tiruchirapalli,trz
+banjul,bjl
+launceston,lst
+abuja,abv
+la palma,spc
+santa marta,smr
+kumamoto,kmj
+kona,koa
+norwich,nwi
+preveza,pvk
+magadan,gdx
+oujda,oud
+saratov,rtw
+kota bharu,kbr
+san andres island,adz
+stockholm,sto
+charleston,chs
+grand cayman island,gcm
+puerto plata,pop
+teresina,the
+aalesund vigra,aes
+campo grande,cgr
+hamilton island,hti
+mardin,mqm
+lucknow,lko
+paramaribo,pbm
+belize city,bze
+lusaka,lun
+labuan bajo,lbj
+pereira,pei
+zaragoza,zaz
+kristiansand,krs
+ajaccio,aja
+sulaymaniyah,isu
+varanasi,vns
+edremit / korfez,edo
+gassim,elq
+douala,dla
+apia,apw
+aracaju,aju
+alice springs,asp
+saint thomas,stt
+abakan,aba
+sivas,vas
+miyako jima,mmy
+comiso,ciy
+albuquerque,abq
+bacau,bcm
+matsuyama,myj
+san sebastian,eas
+milwaukee,mke
+changsha,csx
+dallas,dfw
+samos,smi
+carcassonne,ccf
+brno,brq
+mandalay,mdl
+norfolk,orf
+papeete,ppt
+omaha,oma
+perugia,peg
+saint john’s,anu
+nagasaki,ngs
+victoria,yyj
+derry,ldy
+sanliurfa,sfq
+navegantes,nvt
+proserpine,ppp
+tegucigalpa,tgu
+kutaisi,kut
+lodz,lcj
+oulu,oul
+srinagar,sxr
+saskatoon,yxe
+richmond,ric
+makassar,upg
+praia,rai
+kerry,kir
+iguazu,igr
+guilin,kwl
+friedrichshafen,fdh
+mendoza,mdz
+oklahoma city,okc
+reno,rno
+abidjan,abj
+rennes,rns
+mashhad,mhd
+santiago,sti
+toronto,yto
+pattaya (chonburi),utp
+kauai island,lih
+mangalore,ixe
+maputo,mpm
+semarang,srg
+tampere,tmp
+chandigarh,ixc
+magnitogorsk,mqf
+broome,bme
+paderborn,pad
+el paso,elp
+nojabrxsk,noj
+nalchik,nal
+zhengzhou,cgo
+la rochelle,lrh
+limoges,lig
+regina,yqr
+bandar seri begawan,bwn
+castries,slu
+saipan,spn
+najaf,njf
+kigali,kgl
+kelowna,ylw
+el calafate,fte
+ayers rock,ayq
+ontario,ont
+haikou,hak
+uberlandia,udi
+noumea,nou
+khanty-mansiysk,hma
+ulyanovsk,uly
+rochester,roc
+tucson,tus
+lille,lil
+daegu,tae
+miyazaki,kmi
+oran,orn
+nakhon si thammarat,nst
+rimini,rmi
+changchun,cgq
+maastricht,mst
+urumqi,urc
+toulon,tln
+rarotonga,rar
+st john's,yyt
+turku,tku
+providenciales,pls
+louisville,sdf
+kalamata,klx
+merida,mid
+ilheus,ios
+sunshine coast,mcy
+syracuse,syr
+alexandroupolis dimokritos,axd
+samarkand,skd
+nanning,nng
+bydgoszcz,bzg
+izhevsk,ijk
+tagbilaran,tag
+providence,pvd
+bucaramanga,bga
+brest,bes
+coimbatore,cjb
+londrina,ldb
+silao,bjx
+tianjin,tsn
+bratsk,btk
+umea,ume
+beziers,bzr
+perpignan,pgf
+newcastle,ntl
+ribeirao preto,rao
+durham,mme
+savannah,sav
+lublin,luz
+grand rapids,grr
+gyandzha,kvd
+karaganda,kgf
+grozny,grv
+oita,oit
+lulea kallax,lla
+mackay,mky
+kiruna,krn
+jakarta,jkt
+visakhapatnam,vtz
+galapagos is,gps
+kavala,kva
+chios,jkh
+ushuaia,ush
+des moines,dsm
+porto velho,pvh
+sibiu,sbz
+linz,lnz
+okayama,okj
+myrtle beach,myr
+humberside,huy
+padang,pdg
+balikpapan,bpn
+kirov,kvx
+crotone,crv
+wenzhou,wnz
+port blair,ixz
+holguin,hog
+dunedin,dud
+kosice,ksc
+kobe,ukb
+juazeiro do norte,jdo
+birmingham,bhm
+tulsa,tul
+kars,ksy
+salehard,sly
+fresno,fat
+bodo,boo
+valencia,vln
+long beach,lgb
+melilla,mln
+bagdogra,ixb
+hamilton,bda
+st. george,gnd
+sao vicente,vxe
+komatsu,kmq
+boise,boi
+boa vista,bvc
+spokane,geg
+hakodate,hkd
+penza,pez
+bern,brn
+ioannina,ioa
+manado,mdc
+batam,bth
+busuanga,usu
+ivalo,ivl
+ballina,bnk
+figari,fsc
+kinshasa,fih
+dayton,day
+lourdes,lde
+ashgabat,asb
+aarhus,aar
+cheongju,cjj
+guwahati,gau
+rijeka,rjk
+cheboksary,csy
+pensacola,pns
+vadodara,bdq
+udaipur,udr
+trang,tst
+shiraz,syz
+peshawar,pew
+gorno-altaysk,rgk
+erzincan,erc
+kuala terengganu,tgg
+ordu-giresun,ogu
+niigata,kij
+takamatsu,tak
+ningbo,ngb
+parma,pmf
+oaxaca,oax
+lilongwe,llw
+ipoh,iph
+indore,idr
+chambery,cmf
+shimkent,cit
+albany,alb
+knoxville,tys
+san carlos debariloche,brc
+punta arenas,puq
+zaporozhye,ozh
+port vila,vli
+karratha,kta
+key west,eyw
+patna,pat
+madurai,ixm
+tuxtla gutierrez,tgz
+little rock,lit
+monastir,mir
+maracaibo,mar
+sylhet,zyl
+antwerp,anr
+greenville,gsp
+tirgu mures,tgm
+tongatapu,tbu
+uyuni,uyu
+portland,pwm
+calama,cjc
+jinan,tna
+iloilo,ilo
+yaounde,yao
+terceira lajes,ter
+greensboro / high point,gso
+pamplona,pna
+valladolid,vll
+haugesund,hau
+maringa,mgf
+bacolod,bcd
+aguadilla,bqn
+cucuta,cuc
+nelson,nsn
+nimes,fni
+veracruz,ver
+kingstown,svd
+phitsanulok,phs
+hue,hui
+basra,bsr
+roi et,roi
+burlington,btv
+fergana,feg
+lijiang city,ljg
+salalah,sll
+rockhampton,rok
+sao jose do rio preto,sjp
+acapulco,aca
+abha,ahb
+arequipa,aqp
+gladstone,glt
+ust-kamenogorsk,ukk
+kurgan,kro
+bhubaneswar,bbi
+karpathos,aok
+luxor,lxr
+mus,msr
+victoria falls,vfa
+elat,eth
+stockholm,sto
+nadym,nym
+sakon nakhon,sno
+groningen,grq
+leh,ixl
+sialkot,skt
+taif,tif
+aguascalientes,agu
+palanga,plq
+vaasa,vaa
+yellowknife,yzf
+shizuoka,fsz
+coffs harbour,cfs
+ostrava,osr
+palembang,plm
+kittilä,ktt
+aktau,sco
+georgetown,geo
+salta,sla
+bulawayo,buq
+nagpur,nag
+wichita,ict
+sirnak,nkt
+sarasota,srq
+fernando de noronha,fen
+hargeisa,hga
+manchester,mht
+port moresby,pom
+morelia,mlm
+cuneo,cuf
+george,grj
+dinard,dnr
+burbank,bur
+pantelleria,pnl
+jammu,ixj
+lugano,lug
+cagayan de oro,cgy
+yantai,ynt
+chihuahua,cuu
+constanta kogalniceanu,cnd
+kahramanmaras,kcm
+hamburg,ham
+yanbu,ynb
+asmara,asm
+joinville,joi
+naxos,jnx
+lappeenranta,lpp
+freeport,fpo
+yanji,ynj
+palm springs,psp
+mirny,mjz
+port hedland,phe
+tacloban,tac
+koror,ror
+marsa allam,rmf
+sandakan,sdk
+evenes,eve
+solo / surakarta,soc
+lexington,lex
+vitoria da conquista,vdc
+multan,mux
+mazatlan,mzt
+iquitos,iqt
+merzifon,mzh
+klagenfurt,klu
+santarem,stm
+miri,myy
+rajkot,raj
+gaborone,gbe
+saarbruecken,scn
+la romana,lrm
+bandar lampung,tkg
+palmas,pmw
+puerto escondido,pxm
+trat,tdx
+milos,mlo
+kherson,khe
+lhasa,lxa
+urgench,ugc
+usinsk,usk
+akron,cak
+pekanbaru,pku
+bukhara,bhk
+bozeman,bzn
+visby,vby
+aomori,aoj
+petrolina,pnz
+tobago,tab
+fayetteville,fyv
+djibouti,jib
+kalgoorlie,kgi
+fort mcmurray,ymm
+naryan-mar,nnm
+sorvagur,fae
+pau,puf
+moncton,yqm
+bamako,bko
+easter island,ipc
+nan,nnt
+tours,tuf
+ouagadougou,oua
+canakkale,ckz
+orkney,koi
+longyearbyen,lyr
+clermont-ferrand,cfe
+sumburgh,sdz
+malang,mlg
+tainan,tnn
+roatan,rtb
+columbia,cae
+buri ram,bfv
+paros,pas
+plovdiv,pdv
+lemnos,lxs
+daytona beach,dab
+nanchang,khn
+porlamar,pmv
+dumaguete,dgt
+toyama,toy
+kinmen,knh
+loei,loe
+windsor,yqg
+puerto montt,pmc
+dehra dun,ded
+mcallen,mfe
+ciudad juarez,cjs
+akita,axt
+guiyang,kwe
+shantou,swa
+orsk,osw
+port harcourt,phc
+san luis potosi,slp
+sihanoukville,kos
+colorado springs,cos
+alor setar,aor
+napier-hastings,npe
+tawau,twu
+dalat,dli
+asahikawa,akj
+adiyaman,adf
+madison,msn
+freetown,fna
+praslin island,pri
+lome,lfw
+livingstone,lvi
+neryungri,ner
+ostersund,osd
+santiago,scu
+cozumel,czm
+hilo,ito
+pontianak,pnk
+gwangju,kwj
+bursa,yei
+armenia,axm
+jinjiang,jjn
+kulyab,tju
+hermosillo,hmo
+igdir,igd
+tabriz,tbz
+villahermosa,vsa
+macapa,mcp
+cotonou,coo
+bolzano,bzo
+sorong,soq
+atlantic city,aiy
+calvi,cly
+queretaro,qro
+fairbanks,fai
+craiova,cra
+linkoping,lpi
+porto santo,pxo
+culiacan,cul
+waterford,wat
+liege,lgg
+alta,alf
+molde aro,mol
+dubai,dxb
+lampang,lpt
+raipur,rpr
+cochabamba,cbb
+rosario,ros
+cayenne,cay
+hefei,hfe
+conakry,cky
+erfurt,erf
+ixtapa / zihuatanejo,zih
+bhuj,bhj
+ovda,vda
+eugene,eug
+arusha,ark
+wuxi,wux
+bora bora,bob
+bhopal,bho
+batman,bal
+jodhpur,jdh
+mogadishu,mgq
+huatulco,hux
+cedar rapids,cid
+belo horizonte,bhz
+kirkenes høybuktmoen,kkn
+london,yxu
+tuzla,tzl
+beef island,eis
+kochi,kcz
+kuantan,kua
+constantine,czl
+wilmington,ilm
+nakhon phanom,kop
+banda aceh,btj
+sucre,sre
+bellingham,bli
+atyrau,guw
+poitiers,pis
+johannesburg,jnb
+lipetsk,lpk
+springfield,sgf
+hervey bay,hvb
+sioux falls,fsd
+rio branco,rbr
+chumphon,cjm
+deauville st. gatien,dol
+east london,els
+agri,aji
+panama city,pfn
+harrisburg,har
+dundee,dnd
+aqaba,aqj
+mildura,mql
+ukhta,uct
+puebla,pbc
+ambon,amq
+juba,jub
+saransk,skx
+blantyre,blz
+valparaiso,vps
+kita kyushu,kkj
+horta,hor
+kursk,urs
+essaouira,esu
+la paz,lap
+philadelphia,phl
+huntsville,hsv
+legaspi,lgp
+isfahan,ifn
+banjarmasin,bdj
+imperatriz,imp
+jackson,jan
+pavlodar,pwq
+cayo coco,ccc
+stornoway,syy
+nelspruit,mqp
+aktyubinsk,akx
+belitung (tanjung pandan),tjq
+charlottetown,yyg
+skelleftea,sft
+fargo,far
+tallahassee,tlh
+ivano-frankovsk,ifo
+thunder bay,yqt
+st croix island,stx
+george town,ggt
+namangan,nma
+debrecen,deb
+basseterre,skb
+ranchi,ixr
+nyaung-u,nyu
+westchester county,hpn
+tokat,tjk
+kuopio,kuo
+cherepovets,cee
+medford,mfr
+maraba,mab
+albury,abx
+yiwu,yiw
+araxos,gpa
+amami o shima,asj
+chittagong,cgp
+fredericton,yfc
+asheville,avl
+boa vista,bvb
+osijek,osi
+ponce,pse
+chattanooga,cha
+saga,hsg
+beijing,bjs
+port macquarie,pqq
+zacatecas,zcl
+weihai,weh
+puerto maldonado,pem
+rotorua,rot
+dominica,dom
+kupang,koe
+leticia,let
+andizhan,azn
+setif,qsf
+vijayawada,vga
+toluca,tlc
+lanzhou,lhw
+torreon,trc
+memanbetsu,mmb
+gainesville,gnv
+sydney,yqy
+bundaberg,bdb
+jackson,jac
+kastamonu,kfs
+suva,suv
+mulhouse,mlh
+montes claros,moc
+taiyuan,tyn
+whitehorse,yxy
+makung,mzg
+mount isa,isa
+kushiro,kuh
+kirovsk,kvk
+tripoli,tip
+libreville,lbv
+nouakchott,nkc
+ouarzazate,ozz
+mexicali,mxl
+kokkola / pietarsaari kruunupyy,kok
+kütahya,kzr
+karlovy vary,klv
+palmerston north,pmr
+castellon de la plana,cdt
+pasco,psc
+bejaia,bja
+baton rouge,btr
+chapeco,xap
+tirupati,tir
+billings,bil
+sao tome is,tms
+sana'a,sah
+malindi,myd
+ikaria,jik
+santa clara,snu
+charlottesville,cho
+dole tavaux,dle
+dzaoudzi,dza
+poprad,tat
+sundsvall,sdl
+new plymouth,npl
+st etienne,ebu
+anadyr,dyr
+al hoceima,ahu
+campina grande,cpv
+rapid city,rap
+narathiwat,naw
+pardubice,ped
+plattsburgh,plb
+cuenca,cue
+monteria,mtr
+kostanay,ksn
+pokhara,pkr
+kamloops,yka
+monrovia,mlw
+ube,ubj
+midland,maf
+caen,cfr
+basco,bso
+ostend,ost
+medellin,mde
+grande prairie,yqu
+flint,fnt
+tabuk,tuu
+isparta,ise
+aurangabad,ixu
+general santos,ges
+lubbock,lbb
+roanoke,roa
+haiphong,hph
+brive vallée de la dordogne,bve
+tokushima,tks
+pakse,pkz
+donegal,cfn
+izumo,izo
+castries,slu
+dakhla,vil
+karup,krp
+tampico,tam
+allentown,abe
+cascavel,cac
+xining,xnn
+dili,dil
+geraldton,get
+missoula,mso
+prince george,yxs
+mobile,mob
+pangkalanbuun,pkn
+dayong,dyg
+joensuu,joe
+sibu,sbw
+fort wayne,fwa
+sinop,ops
+sinop,nop
+kalmar,klr
+bujumbura,bjm
+bingöl,bgg
+santa barbara,sba
+brazzaville,bzv
+nagoya,ngo
+kununurra,knx
+komsomolsk na amure,kxk
+aspen,ase
+tlemcen,tlm
+juliaca,jul
+ndola,nla
+heho,heh
+shijiazhuang,sjw
+butuan,bxu
+metz,etz
+iquique,iqq
+trujillo,tru
+corpus christi,crp
+laoag,lao
+bangor,bgr
+jazan,giz
+altamira,atm
+antofagasta,anf
+newport news,phf
+ohrid,ohd
+tambov,tbw
+piura,piu
+charleston,crw
+jayapura,djj
+shreveport,shv
+melbourne,mlb
+kalymnos,jkl
+emerald,emd
+eskisehir,aoe
+blenheim,bhe
+green bay,grb
+ronne bornholm,rnn
+moline,mli
+fayetteville,fay
+ranong,unn
+rostock,rlg
+sukhothai,ths
+gulfport,gpt
+tapachula,tap
+kalispell,fca
+westerland,gwt
+hoedspruit,hds
+st barthelemy,sbh
+gisborne,gis
+pico island,pix
+ivanova,iwa
+panama city,pty
+durango,dgo
+ende,ene
+amarillo,ama
+kuusamo,kao
+maumere,mof
+marsh harbour,mhh
+maun,mub
+presidente prudente,ppb
+taitung,ttt
+malabo,ssg
+bauru,bau
+obihiro,obo
+walvis bay,wvb
+yinchuan,inc
+banja luka,bnx
+hohhot,het
+annaba,aae
+helsingborg,agh
+rodez,rdz
+vaxjo,vxo
+lafayette,lft
+kithira,kit
+traverse city,tvc
+invercargill,ivc
+abbotsford,yxx
+saint john,ysj
+augusta,ags
+ulsan,usn
+manzanillo,zlo
+bugulma,uua
+deer lake,ydf
+learmonth,lea
+pangkalpinang,pgk
+imphal,imf
+tartu,tay
+pasto,pso
+nanaimo,ycd
+evansville,evv
+fort st john,yxj
+barcelona,bla
+jacksonville,oaj
+pointe noire,pnr
+orlando,orl
+zhanjiang,zha
+faisalabad,lyp
+kristiansund,ksu
+yonago,ygj
+tekirdag,teq
+juneau,jnu
+comox,yqq
+tauranga,trg
+kingsport,tri
+labuan,lbu
+zhuhai,zuh
+astypalaia,jty
+skiros,sku
+south bend,sbn
+reynosa,rex
+manizales,mzl
+dharamsala,dhm
+alahsa,hof
+temuco,zco
+jambi,djb
+zamboanga,zam
+nukus,ncu
+wagga wagga,wga
+tucuman,tuc
+avignon,avn
+bismarck,bis
+kajaani,kaj
+redmond,rdm
+arica,ari
+aswan daraw,asw
+bocas del toro,boc
+clearwater,clw
+peoria,pia
+siirt,sxz
+karlstad,ksd
+niamey,nim
+caxias do sul,cxj
+trelew,rel
+n’djamena,ndj
+brownsville,bro
+wilkes-barre,avp
+mae sot (tak),maq
+north eleuthera,elh
+pskov,pkv
+paro,pbh
+honiara,hir
+state college,sce
+port lincoln,plo
+grand junction,gjt
+reykjavik,rek
+bima,bmu
+gyoumri,lwn
+bissau,oxb
+hualien,hun
+leros,lrs
+esperance,epr
+nossi-be,nos
+jonkoping axamo,jkg
+bintulu,btu
+leon,len
+mulu,mzv
+blackpool,blk
+hail,has
+barquisimeto,brm
+anglesey,vly
+misurata,mra
+harlingen,hrl
+barra,brr
+mazar-i-sharif,mzr
+termez,tmj
+passo fundo,pfb
+altenrhein,ach
+carmel,mry
+misawa,msj
+thandwe,snw
+lorient,lrt
+tamworth,tmw
+concepcion,ccp
+tuguegarao,tug
+malacca,mkz
+sitia,jsh
+jyvaskyla,jyv
+kermanshah,ksh
+valledupar,vup
+lincoln,lnk
+killeen,ile
+moroni,yva
+great falls,gtf
+beloyarsky,eyk
+agartala,ixa
+dubbo,dbo
+kitchener / waterloo,ykf
+newman,zne
+phoenix,phx
+neiva,nva
+kassel,ksf
+armidale,arm
+la gomera tenerife,gmz
+islay,ily
+cap haitien,cap
+hachijo jima,hac
+lankaran,llk
+wausau,auw
+montgomery,mgm
+hamilton,yhm
+enugu,enu
+hanamaki,hna
+wick,wic
+islip,isp
+palu,plw
+lansing,lan
+tehran,thr
+akureyri,aey
+naga,wnp
+la serena,lsc
+bloemfontein,bfn
+pyongyang,fnj
+manta,mec
+laredo,lrd
+beira,bew
+elba island,eba
+heihe,hek
+devonport,dpo
+appleton,atw
+kisumu,kis
+niagara falls,iag
+aden,ade
+nairobi,nbo
+nampula,apl
+navoiy,nvi
+monte carlo,mcm
+punta del este,pdp
+syros island,jsy
+tarakan,trk
+yamagata,gaj
+kzyl-orda,kzo
+pemba,pol
+volos,vol
+roxas city,rxs
+santa fe,zsh
+rajahmundry,rja
+kyzyl,kyz
+flores,frs
+omitama,ibr
+karshi,ksq
+rurrenabaque,rbq
+strzhewoi,swt
+tarapoto,tpp
+ahwaz,awz
+san cristobal,scy
+hamilton,hlz
+ipatinga,ipn
+david,dav
+song pan,jzh
+can tho,vca
+vinh city,vii
+gaya,gay
+sovetsky,ovs
+tottori,ttj
+ithaca,ith
+tel aviv,tlv
+lensk airport,ulk
+kalamazoo,azo
+quimper,uip
+idaho falls,ida
+rochester,rst
+gunsan,kuv
+surigao,sug
+lubumbashi,fbm
+fukushima,fks
+latrobe,lbe
+damascus,dam
+kogalym,kgp
+albany,alh
+nakhichevan,naj
+iwakuni,iwk
+grand canyon,gcn
+samana,azs
+new bern,ewn
+surat,stv
+alexandria,aex
+ronneby,rnb
+sohag,hmb
+kurgon-tyube,kqt
+minot,mot
+neuquen,nqn
+vorkuta,vkt
+paulo afonso,pav
+svolvaer,svj
+mudanjiang,mdg
+columbus,cmh
+diu,diu
+flores island,flw
+san luis obispo,csl
+ozamis city,ozc
+yaroslavl,iar
+dibrugarh,dib
+chicago,chi
+los mochis,lmm
+el yopal,eyp
+governador valadares,gvr
+kano,kan
+diqing,dig
+cabo frio,cfb
+dourados,dou
+gothenburg,got
+bengkulu,bks
+punta gorda,pgd
+bangui,bgf
+carajas,cks
+uberaba,uba
+espiritu santo,son
+sudbury,ysb
+bloomington-normal,bmi
+grand forks,gfk
+valverde hierro,vde
+barreiras,bra
+silchar,ixs
+erie,eri
+sault ste marie,yam
+gander,yqx
+newburgh,swf
+terrace,yxt
+sfax el maou,sfa
+berau,bej
+leknes,lkn
+okha,ohh
+vilanculos,vnx
+chicago,chi
+ciudad del carmen,cme
+badajoz talaveral,bjz
+minatitlan,mtt
+vail,ege
+cacoal,oal
+dong hoi,vdh
+teixeira de freitas,txf
+puerto ordaz,pzo
+gorontalo,gto
+durango,dro
+inhambane,inh
+ternate,tte
+beihai,bhy
+dipolog,dpl
+alta floresta,afl
+kemi / tornio,kem
+huaian,hia
+kumejima,ueo
+jinghong,jhg
+yuma,yum
+elista,esl
+mar del plata,mdq
+binghamton,bgm
+toledo,tol
+toowoomba,twb
+cranbrook,yxc
+santa maria,sma
+araguaina,aux
+bakersfield,bfl
+st martin,sfg
+monroe,mlu
+phrae,prh
+ji-parana,jpr
+caldas novas,clv
+mwanza,mwz
+chiclayo,cix
+feira de santana,fec
+isles of scilly,isc
+elmira,elm
+yichang,yih
+joshkar-ola,jok
+palangkaraya,pky
+balboa,blb
+moranbah,mov
+tacna,tcq
+nyagan,nya
+ciudad del este,agt
+juiz de fora,jdf
+montrose,mtj
+al ain,aan
+ciudad obregon,cen
+duluth,dlh
+khajuraho,hjr
+fukue,fuj
+benbecula,beb
+manhattan,mhk
+kendari,kdi
+chetumal,ctm
+santo domingo,std
+jouf,ajf
+tabatinga,tbt
+hambantota,hri
+agra,agr
+popayan,ppn
+ras al khaimah,rkt
+bimini,bim
+kandahar,kdh
+maribor,mbx
+cotabato,cbo
+ibague,ibe
+porbandar,pbd
+dali city,dlu
+pucallpa,pcl
+quetta,uet
+alderney,aci
+upington,utn
+aitutaki,ait
+columbia,cou
+chlef,cfk
+changzhou,czx
+wenatchee,eat
+sao jose dos campos,sjk
+biskra,bsk
+luoyang,lya
+halmstad,had
+laayoune hassan i,eun
+st eustatius,eux
+rondonopolis,roo
+mariehamn,mhq
+qui nhon,uih
+nantucket,ack
+kerikeri,kke
+sumbawa,swq
+yeosu,rsu
+owerri,qow
+tunxi,txn
+chalons sur marne,xcr
+balmaceda,bba
+wakkanai,wkj
+florence,flo
+kapalua,jhm
+abilene,abi
+campeche,cpe
+naypyidaw,nyt
+aracatuba,aru
+hua hin (prachuap khiri khan),hhq
+kastelorizo,kzs
+fort smith,fsm
+penticton,yyf
+ust-nera airport,usr
+kashi,khg
+hailar,hld
+la crosse,lse
+cody / yellowstone,cod
+helena,hln
+kingston,ygk
+pullman,puw
+college station,cll
+san jorge island,sjz
+riohacha,rch
+bahia blanca,bhi
+aberdeen,abr
+las piedras,lsp
+ornskoldsvik,oer
+gallivare,gev
+linyi,lyi
+sacramento,sac
+gwangju,kwj
+wanganui,wag
+siargao island,iao
+whangarei,wre
+shonai,syo
+lahad datu,ldu
+worcester,orh
+uralsk,ura
+ulyanovsk,uly
+colima,clq
+radom,rdo
+salisbury-ocean city,sby
+jabalpur,jlr
+pietermaritzburg,pzb
+hemavan,hmv
+skukuza,szk
+bardufoss,bdu
+semipalatinsk,plx
+kokshetau,kov
+lianyungang,lyg
+kumasi,kms
+logrono,rjl
+derby,drb
+new haven,hvn
+lynchburg,lyh
+uruapan,upn
+ganzhou,kow
+mae hong son,hgn
+petrozavodsk,pes
+midland,mbs
+hoolehua,mkk
+puerto madryn,pmy
+tumbes,tbp
+norrkoping kungsangen,nrk
+martha's vineyard,mvy
+santa rosa,sts
+lencois,lec
+champaign,cmi
+hayden,hdn
+arvidsjaur,ajr
+hammerfest,hft
+cayo largo del sur,cyo
+columbus,ubs
+vilhena,bvh
+castlegar,ycg
+tepic,tpq
+norfolk island,nlk
+tiree,tre
+orsta / volda hovden,hov
+ust-kut,ukx
+hilton head,hhh
+rodrigues is,rrg
+cox's bazar,cxb
+timmins,yts
+la ceiba,lce
+vieques,vqs
+rio gallegos,rgl
+matsu,mfk
+springfield,spi
+redding,rdd
+pago pago,ppg
+kasane,bbk
+west yellowstone,wys
+liuzhou,lzh
+tambolaka,tmc
+marilia,mii
+parintins,pin
+savannakhet,zvk
+criciuma,ccm
+lake charles,lch
+villavicencio,vvc
+lamu,lau
+tanjung pinang,tnj
+sao nicolau,sne
+lord howe island,ldh
+grand island,gri
+xuzhou,xuz
+williston,isn
+truk,tkk
+wichita falls,sps
+dothan,dhn
+baotou,bav
+jiamusi,jmu
+burgos,rgs
+gunungsitoli,gns
+allahabad,ixd
+dunhuang,dnh
+catarman,crm
+banmethuot,bmv
+kulu,kuu
+floro,fro
+masbate,mbt
+con dao,vcs
+mammoth lakes,mmh
+jamnagar,jga
+joplin,jln
+graciosa island,grw
+richards bay,rcb
+yakima,ykm
+nevis,nev
+paraburdoo,pbo
+san juan,uaq
+marquette,mqt
+kimberley,kim
+baia mare,bay
+sapporo,spk
+mo i rana rossvoll,mqn
+corumba,cmg
+ukunda,uka
+manzhouli,nzh
+phalaborwa,phw
+lawton,law
+valdivia,zal
+taupo,tuo
+melbourne,mel
+três lagoas,tjl
+pelotas,pet
+sogndal haukasen,sog
+beida,laq
+banggai (luwuk),luw
+nuevo laredo,nld
+uzhgorod,udj
+aizawl,ajl
+dandong,ddg
+jujuy,juj
+matsumoto,mmj
+roma,rma
+copiapo,cpo
+salamanca,slm
+errachidia,erh
+san angelo,sjt
+campbell river,ybl
+uraj,urj
+barrancabermeja,eja
+honningsvag valan,hvg
+labasa,lbs
+loreto,lto
+loja,loh
+agen,agf
+eldoret,edl
+maseru,msu
+angers,ane
+sonderborg,sgd
+valdosta,vld
+tsushima,tsj
+calbayog,cyp
+columbus,csg
+griffith,gff
+lae,lae
+tarija,tja
+waco,act
+merimbula,mim
+campbeltown,cal
+benin city,bni
+tyler,tyr
+andenes,anx
+jijiga,jij
+seattle,sea
+hakkari,yko
+casper,cpr
+kristianstad,kid
+greenville,pgv
+posadas,pss
+yancheng,ynz
+gove,gov
+daqing,dqa
+tamatave,tmm
+forde,fde
+north bay,yyb
+shirahama,shm
+albany,aby
+batagay airport,bqj
+comodoro rivadavia,crd
+stanley,mpn
+manokwari,mkw
+batna,blj
+lethbridge,yql
+lewiston,lws
+agatti island,agx
+nakashibetsu,shb
+dubuque,dbq
+savusavu,svu
+matamoros,mam
+datong,dat
+parnaiba,phb
+santa maria,ria
+tefe,tff
+antsiranana,die
+waterloo,alo
+kotlas,ksz
+sioux city,sux
+kerteh,kte
+verona,vrn
+cauayan,cyz
+tiksi,iks
+narvik framnes,nvk
+taveuni,tvu
+kozani,kzi
+sandnessjoen,ssj
+briansk,bzk
+horn island,hid
+dimapur,dmu
+wuyishan,wus
+casablanca,cas
+velikij ustyug,vus
+kenmore air harbor,keh
+bronnoysund bronnoy,bnn
+jinju,hin
+yangzhou,yty
+gomel,gme
+saint-pierre,zse
+bagotville,ybg
+port sudan,pzu
+governors harbour,ghb
+orange,oag
+tamale,tml
+esmeraldas,esm
+usak,usq
+lago agrio,lgq
+tetuan s. ramel,ttu
+herat,hea
+bhavnagar,bhu
+satu mare,suj
+sault ste marie,ssm
+the valley,axa
+garden city,gck
+el vigia,vig
+kastoria aristotlis,kso
+lleida,ild
+san juan,sju
+quibdo,uib
+esbjerg,ebj
+ziguinchor,zig
+bonito,byo
+san martin delos andes,cpc
+augusta,aug
+pellston,pln
+moron,mxv
+lands end,leq
+xiangfan,xfn
+cajamarca,cja
+meixian,mxz
+qiqihar,ndg
+zhambyl,dmb
+beaumont,bpt
+nanyang,nny
+resistencia,res
+lalibela,lli
+san pedro,spr
+lanai city,lny
+saltillo,slw
+belgaum,ixg
+makale,mqx
+gloucester,glo
+treasure cay,tcb
+itaituba,itb
+moorea,moz
+baishan,nbs
+talara,tyl
+wonju,wju
+kansas city,mkc
+arcata,acv
+olyokminsk,olz
+niue island,iue
+roswell,row
+lakselv,lkl
+biak,bik
+ketchikan,ktn
+asaba,abb
+mount gambier,mgb
+apartado,apo
+texarkana,txk
+vava'u,vav
+broken hill,bhq
+beltsy,bzy
+tembagapura,tim
+sao filipe,sfl
+camaguey,cmw
+ankara,ank
+pretoria,pry
+san diego,san
+detroit,dtt
+culebra,cpx
+hailey,sun
+majuro,maj
+pagadian,pag
+rahim yar khan,ryk
+virgin gorda,vij
+saint george,sgu
+sainte marie,sms
+nejran,eam
+hokitika,hkk
+polokwane,ptg
+jijel,gjl
+san jose,sjo
+baghdad,bgw
+ayacucho,ayp
+mannheim,mhg
+raiatea,rfp
+oradea,omr
+bathurst,zbf
+cloncurry,cnj
+red deer,yqf
+brunswick,ssi
+weipa,wei
+odate noshiro,onj
+medicine hat,yxh
+tumaco,tco
+sidney,sdy
+tuticorin,tcr
+dickinson,dik
+suntar,suy
+al-baha,abt
+cambridge,cbg
+goose bay,yyr
+moree,mrz
+watertown,art
+rabaul,rab
+tete,tet
+paraparaumu,ppq
+baracoa,bca
+santa fe,sfn
+pai (mae hong son),pyy
+morgantown,mgw
+burnie,bwt
+puerto jimenez,pjm
+dire dawa,dir
+tambor,tmu
+williams lake,ywl
+tamarindo,tno
+maturin,mun
+merauke,mkq
+tanegashima,tne
+orebro,orb
+walla walla,alw
+gondar,gdq
+lukla,lua
+lannion,lai
+solovetsky,csh
+quepos,xqp
+yun cheng,ycu
+assiut,atz
+warri,qrw
+kasos island,ksj
+kaluga,klf
+jorhat,jrh
+onslow,ons
+alexandria,aly
+frankfurt,fra
+provo,pvu
+ashland,hts
+tozeur,toe
+page,pga
+tulear,tle
+bucharest,buh
+hancock,cmx
+arad,arw
+tanna,tah
+tuy hoa,tbb
+gorakhpur,gop
+drake bay,drk
+bahawalpur,bhv
+trincomalee,trr
+bhadrapur,bdp
+carnarvon,cvq
+beni mellal,bem
+zielona gora babimost,ieg
+aix en provence,qxb
+castres mazamet,dcm
+bemidji,bji
+huangyan,hyn
+lebanon,leb
+minsk,msq
+santo domingo,sdq
+santa maria,smx
+calabar,cbq
+jessore,jsr
+maio,mmo
+mayaguez,maz
+cologne,cgn
+cruzeiro do sul,czs
+hayman island,his
+nis,ini
+sitka,sit
+kavalerovo,kvr
+goroka,gka
+bol,bwk
+coca,occ
+alotau,gur
+trollhattan,thn
+bandar abbas,bnd
+baubau,buw
+roros,rrs
+sacramento,sac
+providencia,pva
+rhinelander,rhi
+thanh hoa,thd
+chifeng,cif
+santiago del estero,sde
+zhoushan,hsn
+smithers,yyd
+prince rupert,ypr
+hoskins,hkn
+sept-iles,yzv
+ketapang,ktg
+twin falls,twf
+khasab,khs
+handan,hdg
+tarawa,trw
+kingscote,kgc
+whyalla,wya
+cherskiy,cyx
+suceava salcea,scv
+hyannis,hya
+nantong,ntg
+muskegon,mkg
+medan,mes
+waingapu,wgp
+kavieng,kvg
+williamsport,ipt
+sandane,sdn
+abu simbel,abs
+luang namtha,lxg
+lismore,lsy
+osorno,zos
+florencia,fla
+longreach,lre
+uyo,quo
+batticaloa,btc
+stord,srp
+nyurba airport,nyr
+montreal,ymq
+mount hagen,hgu
+papa westray,ppw
+king island,kns
+los angeles,lax
+belize city,bze
+bahar dar,bjr
+mfuwe,mfu
+tablas,tbh
+tindouf,tin
+gurayat,ury
+havana,upb
+rio verde,rvd
+mosjoen kjaerstad,mjf
+vilhelmina sagadal,vhm
+westray,wry
+san rafael,afa
+qaisumah,aqi
+paducah,pah
+sabang,sbg
+cobija,cij
+langgur,luv
+morondava,moq
+long island,lgi
+wajima,ntq
+virac,vrc
+bisha,bhh
+cayman brac is,cyb
+pleiku,pxu
+pocatello,pih
+pohnpei,pni
+eau claire,eau
+kodiak,adq
+kuressaare,ure
+dongying,doy
+north bend,oth
+brest,bqt
+heringsdorf,hdf
+orlando,orl
+groote eylandt,gte
+mont tremblant,ytm
+zhigansk,zix
+colombo,cmb
+poza rica,paz
+lycksele hedlunda,lyc
+vadso,vds
+st maarten,sxm
+saumlaki,sxk
+takoradi,tkd
+wamena,wmx
+bhairawa,bwa
+tokunoshima,tkn
+nottingham,nqt
+araxa,aax
+grand turk is,gdt
+san salvador,zsa
+mian yang,mig
+picton,pcn
+burlington,brl
+mehamn,meh
+gunnison,guc
+presque isle,pqi
+placencia,plj
+san jose,sji
+aurillac tronquiere,aur
+nouadhibou,ndb
+bar harbor,bhb
+jingdezhen,jdz
+egilsstadir,egs
+changde,cgd
+christmas island,xch
+aksu,aku
+mbeya,mbi
+gan island,gan
+miami,mia
+lin zhi,lzy
+flinders island,fls
+miami,mia
+windhoek,wdh
+jaguaruna,jjg
+butte,btm
+arauca,auc
+vancouver,yvr
+rouyn,yuy
+arar,rae
+weifang,wef
+francistown,frw
+oshima,oim
+ogdensburg,ogs
+luzhou,lzo
+pevek,pwe
+palenque,pqm
+amakusa airport,axj
+brandon,ybr
+kish island,kih
+kaduna,kad
+fort leonard wood,tbn
+fuyuan,fyj
+valenca,val
+kramfors,krf
+macae,mea
+funafuti,fun
+youngstown,yng
+batsfjord,bjf
+nabire,nbx
+fuoshan,fuo
+deputatsky,dpt
+gillette,gcc
+ohotsk,oho
+oki island,oki
+monbetsu,mbe
+bamaga,abm
+balaton,sob
+laurel,lul
+taree,tro
+cedar city,cdc
+utila,uii
+jining,jng
+caye caulker,cuk
+moruya,mya
+madang,mag
+toowoomba,twb
+visalia,vis
+wallis island,wls
+anshan,aog
+iwami,iwj
+seronera,seu
+shillong,shl
+tongliao,tgo
+owensboro,owb
+fuyang,fug
+hubli,hbx
+orland,ola
+yibin,ybp
+bahia solano,bsc
+mukah,mkm
+jauja,jau
+hassi messaoud,hme
+sarnia,yzr
+keperveyem,kpw
+fort myers,fmy
+fort lauderdale,fll
+iringa,iri
+puerto obaldia,pue
+international falls,inl
+cheyenne,cys
+axum,axu
+stokmarknes,skn
+mersa matruh,muh
+powell river,ypw
+hobbs,hob
+abu dhabi,auh
+sittwe,aky
+korla,krl
+mont joli,yyy
+blimbingsari,bwx
+cilacap,cxp
+charleville,ctl
+cocos islands,cck
+turukhansk,thx
+zunyi,zyi
+yoronjima,rnj
+corozal,czu
+dangriga,dga
+pomala,pum
+mora,mxx
+biratnagar,bir
+rock sound,rsd
+rio grande,rga
+plettenberg bay,pbz
+changzhi,cih
+yining,yin
+bathurst,bhs
+igarka,iaa
+campos,caw
+esquel,eqs
+umtata,utt
+nangan,lzn
+escanaba,esc
+chiayi,cyi
+berezovo,ezv
+noumea,nou
+decatur,dec
+amman,amm
+alor island,ard
+srednekolymsk,sek
+uruguaiana,urg
+port hardy,yzt
+rangiroa,rgi
+san luis,luq
+isafjordur,ifj
+anta,ata
+whakatane,whk
+rutland,rut
+mafia,mfa
+atlanta,atl
+port augusta,pug
+meridian,mei
+yap,yap
+clarksburg,ckb
+kandavu,kdv
+dongsheng,dsn
+pori,por
+patos de minas,qpt
+urmieh,omh
+piedras negras,pds
+lewisburg,lwb
+trail,yzz
+grafton,gfn
+montreal,ymq
+ciudad victoria,cvm
+sun city,nty
+nanchong,nao
+rishiri,ris
+val d'or,yvo
+janakpur,jkr
+huanuco,huu
+goma,gom
+roervik ryumsjoen,zxf
+saidpur,spd
+lyon,lys
+provincetown,pvc
+dalanzadgad,dlz
+formosa,fma
+alpena,apn
+hagerstown,hgr
+chizhou,juh
+timaru,tiu
+ilorin,ilr
+parkes,pke
+ile des pins,ilp
+fort nelson,yye
+majunga,mjn
+manzini,mts
+hanimaadhoo,haq
+turaif,tui
+show low,sow
+brainerd,brd
+wewak,wwk
+gunsan ab,kuz
+tongren,ten
+bussellton,bqb
+iqaluit,yfb
+natuna ranai,ntx
+barrow,brw
+parana,pra
+luxi,lum
+namsos,osy
+fagernes valdres,vdb
+pierre,pir
+wabush,ywk
+gladewater,ggg
+sampit,smq
+enshi,enh
+kudat,kud
+puducherry,pny
+gaspe,ygp
+el nido,eni
+victoria,yyj
+imperial,ipl
+hartford,hfd
+erenhot,erl
+ji an,jgs
+la rioja,irj
+merced,mce
+little cayman,lyb
+crescent city,cec
+kenai,ena
+divinopolis,diq
+normanton,ntn
+jinzhou,jnz
+lodwar,lok
+churchill,yyq
+ceduna,ced
+bharatpur,bhr
+olympic dam,olp
+tanga,tgt
+chicago,chi
+quesnel,yqz
+amboseli,asv
+fort dauphin,ftu
+staunton,shd
+iron mountain,imt
+biloela,zbl
+apia,apw
+ibadan,iba
+lazaro cardenas,lzc
+yangyang,yny
+poso,psj
+jiayuguan,jgn
+athens,ahn
+tengchong,tcz
+hasvik,haa
+lar,lrr
+jixi,jxa
+sandspit,yzp
+narrandera,nra
+xieng khouang,xkh
+hana,hnm
+redencao,rdc
+ondangwa,ond
+alamosa,als
+limbang,lmn
+nepalganj,kep
+samarinda,sri
+parkersburg,pkb
+sokoto,sko
+qinhuangdao,shp
+lubango,sdd
+iles de la madeleine,ygr
+kamembe,kme
+yakushima,kum
+golfito,glf
+cienfuegos,cfg
+catamarca,ctc
+baoshan,bsd
+corrientes,cnq
+oruro,oru
+kangding,kgt
+tamky,vcl
+barinas,bns
+xingyi,acx
+tucurui,tur
+ceiba,tjr
+laramie,lar
+santa rosa,etr
+trinidad,tdd
+oban,obn
+coober pedy,cpd
+quelimane,uel
+mys kamennyy,ymk
+kearney,ear
+gwalior,gwl
+dodoma,dod
+grodna,gna
+latacunga,ltx
+xilinhot,xil
+bajawa,bjw
+hibbing,hib
+corvo island,cvu
+yola,yol
+houeisay,hoe
+mara lodges,mre
+santa cruz,srz
+savonlinna,svl
+portland,ptj
+los angeles,lax
+hot springs,hot
+milan,mil
+sveg,evg
+johnstown,jst
+bukoba,bkz
+arba mintch,amh
+xichang,xic
+viedma,vdm
+abadan,abd
+bario,bbn
+vienna,vie
+cape girardeau,cgi
+lydd,lyx
+nome,ome
+king salmon,akn
+rock springs,rks
+chaoyang,chg
+dawson city,yda
+tachilek,thl
+prescott,prc
+nauru island,inu
+luderitz,lud
+wadi ad dawasir,wae
+lhoksumawe,lsw
+kadhdhoo,kdo
+vitoria,vit
+cordova,cdv
+oudomxay,ody
+puerto asis,puu
+jackson,mkl
+ba tong,yus
+st augustine,ust
+nueva gerona,ger
+belleville,blv
+sukkur,skz
+roti,rti
+jonesboro,jbr
+lloydminster,yll
+christmas island,cxi
+maiduguri,miu
+rota,rop
+seattle,sea
+le touquet paris plag,ltq
+daxian,dax
+portsmouth,psm
+cortez,cez
+redang,rdn
+santa rosa,rsa
+yazd,azd
+kwajalein,kwa
+huahine,huh
+riyan mukalla,riy
+kigoma,tkq
+elko,eko
+new orleans,msy
+chimoio,vpy
+augsburg,agb
+nacala,mnc
+saranac lake,slk
+epinal mirecourt,epl
+kotabaru,kbu
+podkamennaya tunguska,tgp
+petropavlovsk,ppk
+hays,hys
+chokurdah,ckh
+iki,iki
+keng tung,ket
+borlange dala,ble
+kitale,ktl
+mysore,myq
+sharurah,shw
+yulin,uyn
+mtwara,myw
+rockland,rkd
+stella maris,sml
+wanxian,wxn
+kaitaia,kat
+haifa,hfa
+zhezkazgan,dzn
+manus island,mas
+buka,bua
+sumburgh,sdz
+dutch harbor,dut
+guantanamo,gao
+simara,sif
+tioman,tod
+dien bien phu,din
+nanyuki,nyk
+igrim,irm
+cooktown,ctn
+sorkjosen,soj
+inuvik,yev
+pantnagar,pgh
+rach gia,vkg
+tikehau atoll,tih
+huai hua,hjj
+golmud,goq
+conceicao do araguaia,cdj
+olenyok,onk
+massena,mss
+seiyun,gxf
+marion,mwa
+kosrae,ksa
+ulanhot,hlh
+fak fak,fkq
+andahuaylas,ans
+sambava,svb
+nogliki,ngk
+homer,hom
+kariba,kab
+los angeles,lax
+changuinola,chx
+dawson creek,ydq
+mamuju,mju
+zonguldak,onq
+putussibau,psu
+vardoe lufthaun,vaw
+bijie,bfj
+margate,mgh
+altay,aat
+tortuquero,ttq
+jos,jos
+nosara beach,nob
+anqing,aqg
+seoul,sel
+myitkyina,myt
+kamuela,mue
+farmington,fmn
+coll island,col
+catumbela,cbt
+skagway,sgy
+rasht,ras
+mason city,mcw
+hotan,htn
+yaounde,yao
+atambua,abu
+baie comeau,ybc
+acandi,acd
+jalapa,jal
+socotra,sct
+benghazi,ben
+stuttgart,sgt
+great barrier island,gbz
+ha'apai,hpa
+bentota river,bjt
+panama city,pfn
+forlì,frl
+st george,sgo
+larantuka,lka
+koggala,kct
+huizhou,huz
+zhangjiakou,zqz
+petersburg,psg
+gizo,gzo
+zagora,ozg
+tan tan,tta
+hanzhong,hzg
+huron,hon
+mostar,omo
+tofino,yaz
+kirksville,irk
+dubois,duj
+quincy,uin
+meulaboh,meq
+skien geiterygen,ske
+monkey mia,mjk
+salinas,snc
+tonghua,tnh
+misima island,mis
+fakarava,fav
+tolitoli,tli
+tolu,tlu
+naha,nah
+tingo maria,tgi
+jimma,jim
+ca mau,cah
+gustavus,gst
+cabinda,cab
+st cloud,stc
+grand canyon,gcn
+doomadgee,dmd
+riverton,riw
+derby,drb
+khovd,hvd
+tangshan,tvs
+nuku hiva,nhv
+pendleton,pdt
+sishen,sis
+montserrat,mni
+st pierre,fsp
+yorke island,okr
+nanaimo,ycd
+coconut island,cnc
+wu hai,wua
+guang yuan,gys
+el dorado,eld
+ravensthorpe,rvt
+kardla,kdl
+naples,apf
+corozal,czh
+dodge city,ddc
+mohe,ohe
+punta gorda,pnd
+dikwella,diw
+north platte,lbf
+durban,dur
+dusseldorf,dus
+north ronaldsay,nrl
+dera ghazi khan,dea
+perigueux,pgx
+moosonee,ymo
+watertown,aty
+gheshm,gsm
+sion,sir
+oxford,oxf
+hami,hmi
+muara teweh,kxh
+sunyani,nyi
+yan'an,eny
+chatham island,cht
+birdsville,bvi
+cincinnati,cvg
+wedjh,ejh
+maroantsetra,wmn
+liberal,lbl
+tupelo,tup
+jamestown,jms
+yacuiba,byc
+cumana,cum
+glasgow,ggw
+adrar,azr
+guayaramerin,gya
+tufi,tfi
+yichun,lds
+bushehr,buz
+puerto carreno,pcr
+copenhagen,cph
+foggia gino lisa,fog
+rafha,rah
+wrangell,wrg
+lake manyara,lky
+bethel,bet
+saarbruecken,scn
+sanday,ndy
+sanliurfa,sfq
+enontekio,enf
+cap skirring,csk
+taiz,tai
+gambela,gmb
+rio grande,rig
+limon,lio
+turkmenbashi,krw
+la fria,lfr
+lihir island,lnv
+labrea,lbr
+sangir talaud (melonguane),mna
+miami,mia
+dijon,dij
+pecs,pev
+stephenville,yjt
+buenaventura,bun
+carauari,caf
+north halmahera (kau),kaz
+hay river,yhy
+lichinga,vxc
+samcheok,suk
+san pedro,spy
+ust-kuyga,ukg
+deadhorse,scc
+elcho island,elc
+ouargla,ogx
+myrtle beach,myr
+salina,sln
+skardu,kdu
+valdez,vdz
+odense,ode
+vanimo,vai
+worland,wrl
+scottsbluff,bff
+kaimana,kng
+cleveland,cle
+lawas,lwy
+hyderabad,hdd
+fortuna,fon
+cunnamulla,cma
+bella coola,qbc
+lancaster,lns
+sioux lookout,yxl
+barcaldine,bci
+moab,cny
+al `ula,ulh
+tobruk,tob
+manila,mnl
+taba,tcp
+devils lake,dvl
+gilgit,gil
+miami,mia
+rost,ret
+katugastota,kdz
+clovis,cvn
+le puy loudes,lpy
+gabes,gae
+berlin,ber
+hengchun,hcn
+nuqui,nqu
+st croix island,stx
+popondetta,pnp
+bobo dioulasso,boy
+hollister,bkg
+bechar,cbh
+tanjung selor,tjs
+chateauroux,chr
+simao,sym
+kuqa,kca
+coro,cze
+an shun,ava
+potosi,poi
+lincang,lnj
+washington,was
+nunukan,nnx
+winton,win
+denver,den
+pueblo,pub
+high level,yoj
+maupiti,mau
+tamanrasset,tmr
+masset,zmt
+torsby fryklanda,tyf
+las vegas,las
+antalaha,anm
+hatanga,htg
+fort dodge,fod
+eua,eua
+kaadedhdhoo,kdm
+dumai,dum
+maningrida,mng
+burketown,buc
+tortola,tov
+colonsay is,csa
+kapuskasing,yyu
+thief river falls,tvf
+ardabil,adu
+hamadan,hdm
+villagarzon,vgz
+pajala,pja
+st anthony,yay
+wenshan,wnh
+hughenden,hgd
+rundu,ndu
+dawadmi,dwd
+ghardaia,gha
+kenora,yqk
+bella bella,zel
+valera,vlv
+ironwood,iwd
+baise,aeb
+meekatharra,mkr
+mpacha,mpa
+solwezi,sli
+mexico city,mex
+manzanillo,mzo
+dominica,dom
+phongsaly,pcq
+barbuda,bbq
+dhangarhi,dhi
+namibe,msz
+las vegas,las
+san cristobal,sci
+soyo,sza
+gorgan,gbt
+myeik,mgz
+ulaangom,ulo
+canaima,caj
+gwadar,gwd
+barter island,bti
+zhaotong,zat
+huambo,nov
+tari,tiz
+hodeidah,hod
+evensk,swv
+munda,mua
+yakutat,yak
+lashio,lsh
+donetsk,dok
+fayetteville,fyv
+sinabang,lsg
+tumling tar,tmi
+belmopan,bcv
+szeged,qzd
+tezpur,tez
+lewoleba,lwe
+chicago,chi
+marudi,mur
+sintang,sqg
+berlevag,bvg
+warrnambool,wmb
+turbat,tuk
+craig cove,ccv
+yonaguni jima,ogn
+juzhou,juz
+quilpie,ulp
+miskolc,mcq
+guanaja,gja
+campinas,cpq
+tarko-sale,tql
+killeen,ile
+djanet,djg
+plastun,tly
+fall river,ewb
+harrisburg,har
+block island,bid
+alliance,aia
+puerto ayacucho,pyh
+gombe,gmo
+okushiri,oir
+rankin inlet,yrt
+miami,mia
+cambridge bay,ycb
+dryden,yhd
+san diego,san
+songea,sgx
+bursa,btz
+santo angelo,gel
+haines,hns
+narrabri,naa
+saravena,rve
+uliastai,ulz
+ilaam,iil
+chernovtsy,cwc
+eirunepe,ern
+dillingham,dlg
+latakia,ltk
+buenos aires,bai
+marinduque,mrq
+san felipe,sfh
+puerto inirida,pda
+hagfors,hfs
+liping city,hzh
+sao carlos airport,qsc
+oranjemund,omd
+red lake,yrl
+palmar,pmz
+kotzebue,otz
+belgrade,beg
+daru,dau
+flin flon,yfo
+norman wells,yvq
+westport,wsz
+bangda,bpx
+kalaupapa,lup
+rio hondo,rhd
+hengyang,hny
+ciudad bolivar,cbl
+cape dorset,yte
+dobo,dob
+galela,glx
+zahedan,zah
+sao gabriel,sjl
+vipingo,vpg
+ewer,ewe
+ahe,ahe
+stronsay,soy
+thompson,yth
+bradford,bfd
+manzini,mts
+kadapa,cdp
+aleppo,alp
+fort chipewyan,ypy
+kieta,kie
+vernal,vel
+carlsbad,cnm
+halls creek,hcq
+shiquanhe,ngq
+thargomindah,xtg
+mcarthur river,mcv
+moscow,mow
+bhamo,bmo
+dessie,dse
+julia creek,jck
+bata,bsg
+kawthaung,kaw
+kasese,kse
+san ignacio,sqs
+gaua,zgu
+arthur's town,atc
+atuona,auq
+martinsburg,aoo
+al-fujairah,fjr
+zouerate,ouz
+del rio,drt
+st. nazaire montoir,snr
+adak island,adk
+washington,was
+xiahe,gxh
+jomsom,jmo
+trombetas,tmt
+killeen,ile
+samsun,ssx
+chah-bahar,zbr
+xi an,sia
+errol,err
+leonora,lno
+riberalta,rib
+greenville,glh
+vigan,vgn
+samburu,uas
+unalakleet,unk
+morristown,mmu
+xinyuan city,nlt
+merida,mrd
+blanc sablon,ybx
+manistee,mbl
+chadron,cdr
+braunschweig,bwe
+fort frances,yag
+husavik,hzk
+bonaventure,yvb
+murray island,myi
+muscle shoals,msl
+whistler,yws
+playon chico,pyc
+ulundi,uld
+achutupo,acu
+havre,hvr
+saint tropez,ltt
+mohenjodaro,mjd
+grimsey,gry
+harrison,hro
+garoua,gou
+el oued,elu
+karamay,kry
+winston-salem,int
+mumias,mum
+ouvea,uve
+takaka,ktf
+phoenix,phx
+grumeti,gtz
+ongiva,vpe
+san tome,som
+banyuwangi,bww
+mitu,mvp
+notodden,ntb
+port gentil,pog
+kingman,igm
+shigatse,rkz
+puerto leguizamo,lqm
+atiu island,aiu
+muko-muko,mpc
+guapi,gpi
+sheridan,shr
+asaloyeh,yeh
+vieste,vif
+fort simpson,yfs
+sechelt,yhs
+san fernando de apure,sfd
+vancouver,yvr
+burqin,kji
+qualicum,xqu
+coari,ciz
+palm island,pmk
+el golea,elg
+tabora,tbo
+dawe,tvy
+sege,egm
+washington,was
+hoonah,hnh
+anahim lake,yaa
+chi mei,cmj
+ludhiana,luh
+san antonio,svz
+modesto,mod
+nikolaev,nlv
+sam neua,neu
+atlanta,atl
+macas,xms
+zhoubai,jiq
+rajshahi,rjh
+jiujiang,jiu
+gafsa,gaf
+tanjung manis,tgc
+dera ismail khan,dsk
+malta,mlk
+longyan,lcx
+nha trang,nha
+south caicos,xsc
+norsup,nus
+puerto lempira,peu
+auckland,akl
+tandag,tdg
+tbessa,tee
+longana,lod
+bayamo,bym
+detroit,dtt
+charlo,ycl
+schefferville,ykl
+mendi,mdu
+victoria,vct
+chicago,chi
+phoenix,phx
+kashechewan,zke
+st george island,stg
+mmabatho,mbd
+puerto natales,pnt
+zhongwei,zhy
+sola,slh
+anjouan,ajn
+the bight,tbi
+kandy,kdw
+telluride,tex
+putao,pbu
+the pas,yqd
+wajir,wjr
+dallas,dfw
+kugluktuk,yco
+south andros,tzn
+mccook,mck
+rotuma island,rta
+arxan airport,yie
+jaffna,jaf
+arviat,yek
+chicago,chi
+saurimo,vhc
+sabzevar,afz
+silver city,svc
+ogden,ogd
+erechim,erm
+san andros,saq
+tampa,tpa
+fort albany,yfa
+gjoa haven,yhk
+zhangye,yzy
+friday harbor,frd
+laghouat,loo
+port mcneil,ymp
+mayaguana,myg
+kasama,kaa
+houston,hou
+alakanuk,auk
+el paso,elp
+los alamos,lam
+albenga,all
+glendive,gdv
+edna bay,eda
+prince albert,ypa
+chibougamau,ymt
+point lay,piz
+bakalalan,bkm
+gode / iddidole,gde
+vanuabalavu,vbv
+pitalito,ptx
+cicia,ici
+cat island,cat
+sary,sry
+choibalsan,coq
+chico,cic
+iran shahr,ihr
+asosa,aso
+punta islita,pbp
+columbus,cmh
+hopedale,yho
+blackall,bkq
+kerman,ker
+mcgrath,mcg
+kuujjuaq,yvp
+windorah,wnr
+sanggata,sgq
+kiunga,ung
+attawapiskat,yat
+chisasibi,yku
+chester,ceg
+gambier is,gmr
+emae,eae
+tampa,tpa
+lamacarena,lmc
+humera,hue
+sabi sabi,gss
+essen,ess
+friday harbor spb,fbs
+destin,dsi
+bouake,byk
+montgomery,mgm
+pangnirtung,yxp
+inagua,iga
+lifou,lif
+fort smith,ysm
+katherine,ktr
+jamestown,jhw
+grayling,kgx
+great bend,gbd
+mbuji mayi,mjm
+sand point,sdp
+sanandaj,sdg
+nuwara eliya,nua
+fitzroy crossing,fiz
+akiak,aki
+macon,mcn
+perito moreno,pmq
+laverton,lvo
+bloomington,bmg
+fair isle,fie
+bauchi,bcu
+wales,waa
+tortola,tov
+siassi,sss
+dikson,dks
+igloolik,ygt
+korhogo,hgo
+pakuba,paf
+sebha,seb
+point hope,pho
+kisangani,fki
+baltimore,bwi
+futuna island,fut
+crooked island,cri
+minneapolis,msp
+tulcan,tua
+moroni,yva
+angoon,agn
+ua pou,uap
+mosul,osm
+bedourie,beu
+milingimbi,mgt
+mariupol,mpw
+nassau,nas
+green island,gni
+beckley,bkw
+wolf point,olf
+malargüe,lgs
+ketchikan,ktn
+lingling,llf
+le havre octeville,leh
+cochstedt,cso
+caucasia,caq
+boulia,bql
+san diego,san
+kobuk,obu
+finkenwerder,xfw
+masamba,mxb
+tawitawi,twt
+szymany,szy
+luena,luo
+bossaso,bsa
+yam island,xmy
+copan,ruy
+whitianga,wtz
+kakamega,ggm
+palm springs,psp
+baker lake,ybk
+minami daito,mmd
+mexico city,mex
+port harcourt,phc
+vestmannaeyjar,vey
+churchill falls,zum
+tabarka,tbj
+bildudalur,biu
+cobar,caz
+eday,eoi
+illizi,vvz
+anaa,aaa
+thorshofn,tho
+houston,hou
+castro,wca
+contadora,otd
+nain,ydp
+mount magnet,mmg
+barisal,bzl
+timimoun,tmx
+mornington,ong
+hao island,hoi
+kalemyo,kmv
+puerto williams,wpu
+bole,bpl
+san antonio,sat
+orange walk,orz
+niuatoputapu,ntt
+gillam,ygx
+ruby,rby
+in salah,inz
+outer skerries,ouk
+pond inlet,yio
+halifax,yhz
+resolute,yrb
+babo,bxb
+semera,sze
+orchid island,kyd
+torres,toh
+aurukun mission,auu
+wapenamanda,wbm
+nanded,ndc
+long lellang,lgl
+aldan,adh
+richmond,rcm
+wuzhou,wuz
+minto,mnt
+puka puka,pkp
+spring point,axp
+galcaio,glk
+san jose island,sic
+peach springs,pgs
+dallas,dfw
+franklin,fkl
+ruteng,rtg
+kananga,kga
+atlanta,atl
+lockhart river,irg
+aneityum,auy
+lopez island,lps
+menongue,spp
+saibai island,sbr
+saint paul island,snp
+morotai island,oti
+lakeland,lal
+mota lava,mtv
+kanpur,knu
+eastsound,esd
+seal bay,syb
+ust-tsilma,uts
+boigu island,gic
+inukjuak,yph
+chipata,cip
+bojnord,bjb
+long banga,lbp
+monrovia,mlw
+rosario,rsj
+eastsound,esd
+bimini,bim
+akure,akr
+san diego,san
+galena,gal
+mare,mee
+qikiqtarjuaq,yvm
+long akah,lkh
+guaymas,gym
+kangiqsualujjuaq,xgr
+ottawa,yow
+franceville,mvb
+mangaia island,mgs
+mount hotham,mhu
+touho,tou
+tanana,tal
+badu island,bdd
+faaite,fac
+saint marys,ksm
+wemindji,ync
+tuluksak,tlt
+malange,meg
+russian mission,rsh
+corpus christi,crp
+in amenas,iam
+man,mjc
+mary,myp
+chitral,cjl
+kirakira,ira
+jolo,jol
+salt cay,slx
+kone,knq
+roche harbor,rce
+wiluna,wun
+tame,tme
+port angeles,clm
+beni,bnc
+saba island,sab
+ramsar,rzr
+hydaburg,hyg
+stebbins,wbb
+maroua,mvr
+likoma island,lix
+argyle,gyl
+huelva,hev
+libo,llb
+newport news,phf
+rurutu,rur
+ourilandia,oia
+kotlik,kot
+mataiva,mvt
+san jose del gua,sje
+topeka,top
+lauthala,luc
+perryville,kpv
+saidu sharif,sdt
+darnley island,nlf
+tabubil,tbg
+lugansk,vsg
+bordj badji mokhtar,bmw
+chignik,kcl
+cold bay,cdb
+la grande,ygl
+kuujjuarapik,ygw
+kowanyama,kwm
+buol,uol
+sara,ssr
+fond du lac,fld
+ottawa,yow
+honolulu,hnl
+kyaukpyu,kyp
+vahitahi,vhz
+mitiaro island,moi
+tennant creek,tca
+francisco beltrao,fbe
+tuscaloosa,tcl
+boulder city,bld
+zaisan,szi
+lake minchumina,lma
+newcastle,ntl
+suncheon,sys
+minna,mxj
+fort worth,ftw
+westsound,wsx
+cootamundra,cmd
+stillwater,swo
+lizard island,lzr
+tuktoyaktuk,yub
+gambell,gam
+attapu,aou
+anchorage,anc
+lakeba,lkb
+san antonio,sat
+anegada,ngd
+healy lake,hkb
+metlakatla,mtm
+repulse bay,yut
+grand rapids,gpz
+waskaganish,ykq
+barrigada / tamuning,gum
+lafayette,laf
+touggourt,tgr
+mukdahan,kxn
+baltimore,bwi
+fort yukon,fyu
+maewo,mwf
+arctic bay,yab
+nikolai,nib
+kugaaruk,ybb
+walaha,wlh
+berbera,bbo
+raroia,rrr
+natuashish,ynp
+el salvador,esr
+old crow,yoc
+indaselassie,shc
+shishmaref,shh
+san vicente,svi
+clyde river,ycy
+kuito,svp
+deer lake,yvz
+koumac,koc
+chesterfield inlet,ycs
+valesdir,vls
+edward river,edr
+havre st pierre,ygv
+savoonga,sva
+dalbandin,dba
+tubuai,tub
+pikangikum,ypm
+south west bay,swj
+pohang,kpo
+hall beach,yux
+el fasher,elf
+kalskag,klg
+manston,mse
+sawu,sau
+seinajoki ilmajoki,sjy
+pontiac,ptk
+columbus,csg
+nuiqsut,nui
+choiseul bay,chy
+excursion inlet,exi
+st louis,stl
+mauke island,muk
+kivalina,kvl
+marau sound,rus
+golovin,glv
+kangirsuk,ykg
+newtok,wwt
+tacheng,tcg
+rimatara,rmt
+makkovik,ymn
+quinhagak,kwn
+jiagedaqi,jgd
+ulei,ulb
+toksook bay,ook
+brussels,bru
+turkmenabad,crz
+craig,cga
+nondalton,nnl
+koro island,kxf
+kinna,jjm
+tongoa,tgh
+goulburn island,gbl
+sanikiluaq,ysk
+uganik,ugi
+marshall,mll
+takotna,tct
+old harbor,olh
+foula,foa
+eastmain,zem
+barth,bbh
+arua,rua
+mananara,wmr
+fort mcpherson,zfm
+shahroud,rud
+kameshli,kac
+key west,eyw
+birjand,xbj
+takaroa,tkx
+kake,kae
+losuia,lsa
+oskarshamn,osk
+rainbow lake,yop
+chefornak,cyf
+new orleans,msy
+valence chabeuil,vaf
+kangiqsujuaq,ywb
+bost,bst
+aratika,rka
+taramajima,tra
+suavanao,vao
+aniak,ani
+tununak,tnk
+ambler,abl
+panjgur,pjg
+pilot point,pip
+pisco,pio
+papa stour,psv
+noatak,wtk
+south naknek,wsn
+wonan,wot
+nawabshah,wns
+pedro bay,pdb
+allakaket,aet
+selawik,wlk
+long seridan,odn
+hyder,whd
+memphis,mem
+maple bay,yaq
+nangapinoh,npo
+niau,niu
+norfolk,orf
+atka,akb
+arona,rna
+rennell,rnl
+shahre-kord,cqd
+naracoorte,nac
+coral harbour,yzs
+mechria,mzw
+mekoryuk,myu
+milanau,yyv
+coen,cuq
+anvik,anv
+curacao,cur
+moa,moa
+apataki,apk
+dezful,def
+atqasuk,atk
+makemo,mkp
+eagle,eaa
+el bagre,ebg
+la ronge,yvc
+alxa left banner bayanhot,axf
+la chorrera,lcr
+aklavik,lak
+kolwezi,kwz
+emmonak,emk
+kunduz,und
+kwethluk,kwt
+krivoy rog,kwg
+thorne bay,ktb
+mabuiag island,ubb
+kipnuk,kpn
+ouzinkie,koz
+paulatuk,ypc
+bloomfield,bfc
+kongiganak,kkh
+kauehi,khz
+oran,orn
+iwo jima vol,iwo
+bukavu,bky
+hikueru,hhz
+philadelphia,phl
+ulukhaktok,yhi
+plattsburgh,plb
+al ghaydah,aay
+khatgal,htm
+tureia,zta
+port alsworth,pta
+teller,tla
+chuathbaluk,chu
+raha,raq
+chalkyitsik,cik
+reconquista,rcq
+wainwright,ain
+santa ana,nnb
+clarks point,clp
+ipota,ipa
+tanjung warukin,tjg
+angling lake,yax
+circle,irc
+anaktuvuk,akp
+akulivik,akv
+tiaret,tid
+varkaus,vrk
+granites,gts
+klemtu,ykt
+joacaba,jcb
+monkey bay,myz
+salluit,ysw
+vopnafjordur,vpn
+njombe,jom
+jaque,jqe
+zanjan,jwn
+carupano,cup
+dashoguz,taz
+mascara,muw
+mulatupo,mpp
+bahia pinas,bfq
+mong hsat,mog
+khorramabad,khd
+corazon de jesus,czj
+minneriya,mnh
+santa cruz is,scz
+koyuk,kka
+manley hot springs,mly
+la pedrera,lpd
+ebon,ebo
+klawock,klw
+lonorore,lne
+king khalid mil. city,kmc
+kismayu,kmu
+eek,eek
+st michael,smk
+chevak,vak
+samarai island,sqt
+elfin cove,elv
+postville,yso
+stony river,srv
+gjogur,gjr
+markovo,kvm
+kasigluk,kuk
+sumbawanga,sut
+kitadaito,ktd
+bandar lengeh,bdh
+ulgit,ulg
+kingston,kin
+teller mission,kts
+kubin island,kug
+ua huka,uah
+king cove,kvc
+garachine,ghe
+fort collins,fnl
+kwigillingok,kwk
+stony rapids,ysf
+bauru,bau
+olga bay,koy
+kalemie,fmi
+goodnews bay,gnu
+povungnituk,ypx
+sullivan bay,ytg
+new stuyahok,knw
+big trout,ytl
+labuha,lah
+nyala,uyl
+seldovia,sov
+lisala,liq
+arutua,axr
+peawanuck,ypo
+port menier,ypn
+moser bay,kmy
+lvliang,llv
+larsen bay,kln
+akiachak,kki
+shaktoolik,skk
+spokane,geg
+cape lisburne,lur
+port protection,ppv
+el obeid,ebd
+mbandaka,mdk
+deline,ywj
+atmautluak,att
+venetie,vee
+ganges harbor,ygg
+dillons bay,dly
+fort good hope,ygh
+atoifi,atd
+sirjan,syj
+maimana,mmz
+whale cove,yxn
+sue island,syu
+scammon bay,scm
+mansa,mns
+mountain village,mou
+ekwok,kek
+manitowoc,mtw
+taloyoak,yyh
+bunia,bux
+coffman cove,kcc
+musoma,muz
+natashquan,yna
+moro,mxh
+kaltag,kal
+montagne harbor,ymf
+targovishte,tgv
+bull harbour,ybh
+atlanta,atl
+holy cross,hcr
+cartago,crc
+itacoatiara,ita
+ngaoundere,nge
+kufrah,akf
+san domino island,tqr
+clearwater,clw
+independence,inb
+atlantic city,aiy
+naukiti,nki
+nightmute,nme
+tenakee springs,tke
+chicken,ckx
+belo,bmd
+crooked creek,ckd
+tulita / fort norman,zfn
+nukutavake,nuk
+karamea,nzk
+san diego,san
+rum cay,rcy
+ivujivik,yik
+ramata,rbv
+tok,tkj
+pakuashipi,yif
+kegashka,zkg
+aek godang,aeg
+la tabatiere,zlt
+napakiak,wna
+balimo,opu
+puerto deseado,pud
+platinum,ptu
+bullhead city,ifp
+tuntutuliak,wtl
+araracuara,acr
+sandy lake,zsj
+kiana,ian
+belep island,bmy
+cape barren island,cbi
+hughes,hus
+tin city,tnc
+hooper bay,hpb
+manihi,xmh
