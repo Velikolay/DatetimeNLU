@@ -11,6 +11,9 @@ public class GeneralParserResult {
     private List<DateParserResult> dates;
     private List<PlaceParserResult> places;
 
+    public GeneralParserResult() {
+    }
+
     public GeneralParserResult(List<DateParserResult> dates, List<PlaceParserResult> places) {
         this.dates = dates;
         this.places = places;

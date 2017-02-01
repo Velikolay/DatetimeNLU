@@ -1,11 +1,16 @@
 package dateparser;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
 /**
  * Created by nikolayivanov on 1/15/17.
  */
 public class DateParserResult extends ParserResult {
+    @JsonIgnore
     private LocalDateTime dateTime;
 
     public DateParserResult( LocalDateTime dateTime, IntegerRange indexRange, IntegerRange tokenRange) {
@@ -19,6 +24,11 @@ public class DateParserResult extends ParserResult {
 
     public void setDateTime(LocalDateTime dateTime) {
         this.dateTime = dateTime;
+    }
+
+    @JsonProperty("datetime") // or whatever name you need in JSON
+    private String getDateTimeISOString() {
+        return this.dateTime.format(DateTimeFormatter.ISO_DATE_TIME);
     }
 
     @Override

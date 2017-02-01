@@ -1,10 +1,14 @@
 package dateparser;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 /**
  * Created by nikolayivanov on 1/28/17.
  */
 public abstract class ParserResult {
     protected IntegerRange indexRange;
+
+    @JsonIgnore
     protected IntegerRange tokenRange;
 
     public ParserResult(IntegerRange indexRange, IntegerRange tokenRange) {
