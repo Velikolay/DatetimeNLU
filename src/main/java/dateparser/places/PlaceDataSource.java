@@ -109,8 +109,6 @@ public class PlaceDataSource {
         for(List<String> row: csvTable) {
             if(!res.containsKey(row.get(0).toLowerCase())) {
                 res.put(row.get(0).toLowerCase(), row.get(1).toLowerCase());
-            } else {
-                //System.out.println(row);
             }
         }
         return res;

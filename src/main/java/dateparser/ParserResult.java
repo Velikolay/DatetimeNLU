@@ -11,9 +11,12 @@ public abstract class ParserResult {
     @JsonIgnore
     protected IntegerRange tokenRange;
 
+    protected String role;
+
     public ParserResult(IntegerRange indexRange, IntegerRange tokenRange) {
         this.indexRange = indexRange;
         this.tokenRange = tokenRange;
+        this.role = "None";
     }
 
     public IntegerRange getIndexRange() {
@@ -32,6 +35,14 @@ public abstract class ParserResult {
         this.tokenRange = tokenRange;
     }
 
+    public String getRole() {
+        return role;
+    }
+
+    public void setRole(String role) {
+        this.role = role;
+    }
+
     public abstract String getLabel();
 
     @Override
@@ -39,6 +50,7 @@ public abstract class ParserResult {
         return "ParserResult{" +
                 "indexRange=" + indexRange +
                 ", tokenRange=" + tokenRange +
+                ", role=" + role +
                 '}';
     }
 }

@@ -1,5 +1,7 @@
 package dateparser.places;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 /**
  * Created by nikolayivanov on 1/23/17.
  */
@@ -32,6 +34,7 @@ public class PlaceInfo {
         this.countryCode = countryCode;
     }
 
+    @JsonIgnore
     public boolean isEmpty() {
         return airportCode == null && cityCode == null && countryCode == null;
     }

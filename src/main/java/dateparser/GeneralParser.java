@@ -3,6 +3,9 @@ package dateparser;
 import dateparser.places.PlaceDataSource;
 import dateparser.places.PlaceParser;
 import dateparser.places.PlaceParserResult;
+import dateparser.places.PlaceRoleTagger;
+import dateparser.triptype.TriptypeParser;
+import dateparser.triptype.TriptypeParserResult;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -11,7 +14,9 @@ import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 /**
  * Created by nikolayivanov on 1/21/17.
@@ -25,11 +30,10 @@ public class GeneralParser {
         return new String(encoded, encoding);
     }
 
-
-
     private static void testParser(String pathToDataSetFile) throws IOException {
         String json = readFile(pathToDataSetFile, Charset.defaultCharset());
         JSONArray arr = new JSONArray(json);
+        List<String> taggedData = new ArrayList<>();
         for (int i = 0; i < arr.length(); i++) {
             JSONObject jsonObj = (JSONObject)arr.get(i);
             String text = jsonObj.getString("text");
@@ -39,15 +43,18 @@ public class GeneralParser {
             List<ParserResult> allResults = new ArrayList<>();
             allResults.addAll(res.getDates());
             allResults.addAll(res.getPlaces());
-            System.out.println(replaceParseResults(text, allResults));
+            taggedData.add(getTaggedText(text, allResults));
+        }
+        for(String taggedSent: taggedData) {
+            System.out.println("FlightSearch\t" + taggedSent);
         }
     }
 
-    private static String replaceParseResults(String text, List<ParserResult> results) {
-        return replaceParseResults(text, 0, text.length(), results);
+    private static String getTaggedText(String text, List<ParserResult> results) {
+        return getTaggedText(text, 0, text.length(), results);
     }
 
-    private static String replaceParseResults(String text, int start, int stop, List<ParserResult> results) {
+    private static String getTaggedText(String text, int start, int stop, List<ParserResult> results) {
         if (start >= text.length()) {
             return "";
         }
@@ -60,11 +67,29 @@ public class GeneralParser {
         }
         if(usedResult != null) {
             results.remove(usedResult);
-            return replaceParseResults(text, start, usedResult.getIndexRange().getStart(), results) +
+            return getTaggedText(text, start, usedResult.getIndexRange().getStart(), results) +
                     usedResult.getLabel() +
-                    replaceParseResults(text, usedResult.getIndexRange().getStop() + 1, stop, results);
+                    getTaggedText(text, usedResult.getIndexRange().getStop() + 1, stop, results);
         } else {
             return text.substring(start, stop);
+        }
+    }
+
+    private static void tagRoles(String text, List<ParserResult> results) {
+        String taggedText = getTaggedText(text, new ArrayList<>(results)).toLowerCase();
+        results.sort((ParserResult o1, ParserResult o2)->o1.getIndexRange().getStart() - o2.getIndexRange().getStart());
+        String[] words = taggedText.replaceAll("[.,!?]", " ").split("\\s+");
+        List<String> tokens = Arrays.stream(words).collect(Collectors.toList());
+        System.out.println(tokens);
+        int resIdx = 0;
+        PlaceRoleTagger tagger = new PlaceRoleTagger();
+        List<String> roleTags = tagger.tagTokens(tokens);
+        for (int i = 0; i < roleTags.size(); i++) {
+            if(resIdx < results.size() &&
+                    tokens.get(i).equals(results.get(resIdx).getLabel())) {
+                results.get(resIdx).setRole(roleTags.get(i));
+                resIdx++;
+            }
         }
     }
 
@@ -73,7 +98,13 @@ public class GeneralParser {
         PlaceDataSource pds = new PlaceDataSource();
         pds.initialize();
         List<PlaceParserResult> ppResult = PlaceParser.parse(text, pds);
-        GeneralParserResult gpResult = new GeneralParserResult(dpResult, ppResult);
+        List<TriptypeParserResult> tpResult = TriptypeParser.parse(text);
+        List<ParserResult> allResults = new ArrayList<>();
+        allResults.addAll(dpResult);
+        allResults.addAll(ppResult);
+        allResults.addAll(tpResult);
+        tagRoles(text, allResults);
+        GeneralParserResult gpResult = new GeneralParserResult(dpResult, ppResult, tpResult);
         return gpResult;
     }
 

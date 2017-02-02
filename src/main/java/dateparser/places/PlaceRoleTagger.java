@@ -1,7 +1,9 @@
 package dateparser.places;
 
-import org.chasen.crfpp.Model;
 import org.chasen.crfpp.Tagger;
+
+import java.util.ArrayList;
+import java.util.List;
 
 import java.io.IOException;
 
@@ -10,25 +12,46 @@ import java.io.IOException;
  */
 public class PlaceRoleTagger {
 
-    private static final String MODEL_FILE = "src/main/resources/train/model";
-    /**
-     * Train using the sequences in a file.
-     *
-     * @param args
-     *			Training file, model file.
-     * @throws IOException
-     */
-    public static void main(String[] args) throws IOException {
+    private static final String MODEL_FILE = System.getProperty("user.dir") + "/src/main/resources/train/model";
+    private Tagger tagger;
+
+    static {
         try {
-            System.out.println(System.getProperty("java.library.path"));
-            System.out.println(System.getenv("LD_LIBRARY_PATH"));
-            System.loadLibrary("CRFPP");
+            System.load(System.getProperty("user.dir") + "/lib/libCRFPP.so");
         } catch (UnsatisfiedLinkError e) {
-            System.err.println("Cannot load the example native code.\nMake sure your LD_LIBRARY_PATH contains \'.\'\n" + e);
-            System.exit(1);
+            System.err.println("Cannot load the libCRFPP native code\n" + e);
         }
-        Model placeRoleModel = new Model(MODEL_FILE);
-        Tagger placeRoleTagger = placeRoleModel.createTagger();
-        System.out.println(placeRoleTagger.parse("en:place to en:place"));
+    }
+
+    public PlaceRoleTagger() {
+        this.tagger = new Tagger("-m " + MODEL_FILE + " -v 3 -n2");
+    }
+
+    synchronized public List<String> tagTokens(List<String> tokens) {
+        List<String> tags = new ArrayList<>();
+        for (String token: tokens) {
+            tagger.add(token);
+        }
+        if (tagger.parse()) {
+            for (int i = 0; i < tagger.size(); ++i) {
+                for (int j = 0; j < tagger.xsize(); ++j) {
+                    System.out.print(tagger.x(i, j) + "\t");
+                }
+                tags.add(tagger.y2(i));
+                System.out.print(tagger.y2(i) + "\t");
+                System.out.print("\n");
+            }
+        }
+
+        return tags;
+    }
+
+    public static void main(String[] args) throws IOException {
+        PlaceRoleTagger roleTagger = new PlaceRoleTagger();
+        List<String> tokens = new ArrayList<String>();
+        tokens.add("en:place");
+        tokens.add("to");
+        tokens.add("en:place");
+        System.out.println(roleTagger.tagTokens(tokens));
     }
 }

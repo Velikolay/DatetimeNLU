@@ -1,6 +1,7 @@
 package dateparser;
 
 import dateparser.places.PlaceParserResult;
+import dateparser.triptype.TriptypeParserResult;
 
 import java.util.List;
 
@@ -10,13 +11,15 @@ import java.util.List;
 public class GeneralParserResult {
     private List<DateParserResult> dates;
     private List<PlaceParserResult> places;
+    private List<TriptypeParserResult> triptypes;
 
     public GeneralParserResult() {
     }
 
-    public GeneralParserResult(List<DateParserResult> dates, List<PlaceParserResult> places) {
+    public GeneralParserResult(List<DateParserResult> dates, List<PlaceParserResult> places, List<TriptypeParserResult> triptypes) {
         this.dates = dates;
         this.places = places;
+        this.triptypes = triptypes;
     }
 
     public List<DateParserResult> getDates() {
@@ -35,11 +38,20 @@ public class GeneralParserResult {
         this.places = places;
     }
 
+    public List<TriptypeParserResult> getTriptypes() {
+        return triptypes;
+    }
+
+    public void setTriptypes(List<TriptypeParserResult> triptypes) {
+        this.triptypes = triptypes;
+    }
+
     @Override
     public String toString() {
         return "GeneralParserResult{" +
                 "dates=" + dates +
                 ", places=" + places +
+                ", triptypes=" + triptypes +
                 '}';
     }
 }
